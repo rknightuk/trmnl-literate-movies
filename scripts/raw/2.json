@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "46158",
+        "link": "https://letterboxd.com/film/the-andromeda-strain/",
+        "title": "The Andromeda Strain",
+        "poster": "/film/the-andromeda-strain/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/6/1/5/8/p/4FBSFz8wLpxd4o6hnvKOJJ8WSIz-0-70-0-105-crop.jpg?v=71a958493d",
+        "year": "1971",
+        "rating": "6",
+        "desc": "<p>This is based on the 1969 novel of the same name by Michael Crichton.</p>"
+    },
+    {
+        "id": "43439",
+        "link": "https://letterboxd.com/film/choke-2008/",
+        "title": "Choke",
+        "poster": "/film/choke-2008/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/3/4/3/9/43439-choke-0-70-0-105-crop.jpg?v=ca7e3d3a07",
+        "year": "2008",
+        "rating": null,
+        "desc": "<p>This is based on the 2001 novel of the same name by Chuck Palahniuk.</p>"
+    },
+    {
+        "id": "1086",
+        "link": "https://letterboxd.com/film/the-girl-with-the-dragon-tattoo-2011/",
+        "title": "The Girl with the Dragon Tattoo",
+        "poster": "/film/the-girl-with-the-dragon-tattoo-2011/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/1/0/8/6/p/iOPbjCKeOXcUBlFH5FPsyqFvmjM-0-70-0-105-crop.jpg?v=98d59d1320",
+        "year": "2011",
+        "rating": "9",
+        "desc": "<p>This is based on the 2005 novel of the same name by Stieg Larsson.</p>"
+    },
+    {
+        "id": "42353",
+        "link": "https://letterboxd.com/film/the-girl-with-the-dragon-tattoo/",
+        "title": "The Girl with the Dragon Tattoo",
+        "poster": "/film/the-girl-with-the-dragon-tattoo/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/2/3/5/3/42353-the-girl-with-the-dragon-tattoo-0-70-0-105-crop.jpg?v=47bcaf83c8",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the 2005 novel of the same name by Stieg Larsson.</p>"
+    },
+    {
+        "id": "36907",
+        "link": "https://letterboxd.com/film/the-girl-who-played-with-fire/",
+        "title": "The Girl Who Played with Fire",
+        "poster": "/film/the-girl-who-played-with-fire/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/jx/1u/7r/h0/qHRpU2d9NWB0WDulwgFwg6a9JRK-0-70-0-105-crop.jpg?v=31003beffd",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the 2006 novel of the same name by Stieg Larsson.</p>"
+    },
+    {
+        "id": "29660",
+        "link": "https://letterboxd.com/film/the-girl-who-kicked-the-hornets-nest/",
+        "title": "The Girl Who Kicked the Hornet’s Nest",
+        "poster": "/film/the-girl-who-kicked-the-hornets-nest/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/9/6/6/0/29660-the-girl-who-kicked-the-hornet-s-nest-0-70-0-105-crop.jpg?v=04812830d8",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the 2007 novel of the same name by Stieg Larsson.</p>"
+    },
+    {
+        "id": "51281",
+        "link": "https://letterboxd.com/film/planet-of-the-apes/",
+        "title": "Planet of the Apes",
+        "poster": "/film/planet-of-the-apes/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/5/1/2/8/1/p/fqf2LjNRkRQaPfXRDxt1yS2i7z-0-70-0-105-crop.jpg?v=12ca9d4709",
+        "year": "1968",
+        "rating": "9",
+        "desc": "<p>This is loosely based on the 1963 French novel <b><i>La Planète des Singes</i></b> (known in English as <b><i>Planet of the Apes</i></b> in the US and <b><i>Monkey Planet</i></b> in the UK) by Pierre Boulle.</p>"
+    },
+    {
+        "id": "51871",
+        "link": "https://letterboxd.com/film/minority-report/",
+        "title": "Minority Report",
+        "poster": "/film/minority-report/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/5/1/8/7/1/p/n7kc3wg1M5lchJOd0QxmuY0saxk-0-70-0-105-crop.jpg?v=06ffab81c1",
+        "year": "2002",
+        "rating": "8",
+        "desc": "<p>This is loosely based on the 1956 short story \"The Minority Report\" by Philip K. Dick.</p>"
+    },
+    {
+        "id": "51356",
+        "link": "https://letterboxd.com/film/cruel-intentions/",
+        "title": "Cruel Intentions",
+        "poster": "/film/cruel-intentions/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/6/51356-cruel-intentions-0-70-0-105-crop.jpg?v=2f669d4209",
+        "year": "1999",
+        "rating": "7",
+        "desc": "<p>This is based on the 1782 novel <b><i>Les Liaisons dangereuses</i></b> by Pierre Choderlos de Laclos.</p>"
+    },
+    {
+        "id": "51293",
+        "link": "https://letterboxd.com/film/dangerous-liaisons/",
+        "title": "Dangerous Liaisons",
+        "poster": "/film/dangerous-liaisons/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/3/51293-dangerous-liaisons-0-70-0-105-crop.jpg?v=e67110dbfe",
+        "year": "1988",
+        "rating": null,
+        "desc": "<p>This is based on the 1782 novel <b><i>Les Liaisons dangereuses</i></b> by Pierre Choderlos de Laclos.</p>"
+    },
+    {
+        "id": "51291",
+        "link": "https://letterboxd.com/film/total-recall/",
+        "title": "Total Recall",
+        "poster": "/film/total-recall/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/5/1/2/9/1/p/k62LisG7J56LBQpCYvbO7NQNQyI-0-70-0-105-crop.jpg?v=23b00b1b9a",
+        "year": "1990",
+        "rating": "8",
+        "desc": "<p>This is loosely based on the 1966 short story \"We Can Remember It for You Wholesale\" by Philip K. Dick.</p>"
+    },
+    {
+        "id": "331",
+        "link": "https://letterboxd.com/film/total-recall-2012/",
+        "title": "Total Recall",
+        "poster": "/film/total-recall-2012/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/3/1/331-total-recall-0-70-0-105-crop.jpg?v=57079f083e",
+        "year": "2012",
+        "rating": "6",
+        "desc": "<p>This is loosely based on the 1966 short story \"We Can Remember It for You Wholesale\" by Philip K. Dick.</p>"
+    },
+    {
+        "id": "40708",
+        "link": "https://letterboxd.com/film/silver-bullet/",
+        "title": "Silver Bullet",
+        "poster": "/film/silver-bullet/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/0/7/0/8/40708-silver-bullet-0-70-0-105-crop.jpg?v=07a7ce5176",
+        "year": "1985",
+        "rating": "6",
+        "desc": "<p>This is based on the 1983 novella <b><i>Cycle of the Werewolf</i></b> by Stephen King.</p>"
+    },
+    {
+        "id": "51440",
+        "link": "https://letterboxd.com/film/contact/",
+        "title": "Contact",
+        "poster": "/film/contact/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/4/4/0/51440-contact-0-70-0-105-crop.jpg?v=d9b4fecd9b",
+        "year": "1997",
+        "rating": "7",
+        "desc": "<p>This is based on the 1985 novel of the same name by Carl Sagan.</p>"
+    },
+    {
+        "id": "48918",
+        "link": "https://letterboxd.com/film/310-to-yuma-2007/",
+        "title": "3:10 to Yuma",
+        "poster": "/film/310-to-yuma-2007/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/8/9/1/8/p/sbOYPlSuhUSPQIXratdzzOgVIDB-0-70-0-105-crop.jpg?v=51c76d1086",
+        "year": "2007",
+        "rating": "7",
+        "desc": "<p>This is based on the 1953 short story \"Three-Ten to Yuma\" by Elmore Leonard.</p>"
+    },
+    {
+        "id": "43294",
+        "link": "https://letterboxd.com/film/310-to-yuma/",
+        "title": "3:10 to Yuma",
+        "poster": "/film/310-to-yuma/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/3/2/9/4/43294-3-10-to-yuma-0-70-0-105-crop.jpg?v=032f473bbf",
+        "year": "1957",
+        "rating": null,
+        "desc": "<p>This is based on the 1953 short story \"Three-Ten to Yuma\" by Elmore Leonard.</p>"
+    },
+    {
+        "id": "62671",
+        "link": "https://letterboxd.com/film/12-years-a-slave/",
+        "title": "12 Years a Slave",
+        "poster": "/film/12-years-a-slave/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/6/2/6/7/1/p/rlpezceDgELWuW7RKRaabvzWtqF-0-70-0-105-crop.jpg?v=d9d3b2005d",
+        "year": "2013",
+        "rating": "8",
+        "desc": "<p>This is based on the 1853 slave memoir <b><i>Twelve Years a Slave</i></b> by Solomon Northup.</p>"
+    },
+    {
+        "id": "47900",
+        "link": "https://letterboxd.com/film/21/",
+        "title": "21",
+        "poster": "/film/21/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/7/9/0/0/47900-21-0-70-0-105-crop.jpg?v=733647ac0d",
+        "year": "2008",
+        "rating": "7",
+        "desc": "<p>This is based on the 2003 book <b><i>Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions</i></b> by Ben Mezrich.</p>"
+    },
+    {
+        "id": "49944",
+        "link": "https://letterboxd.com/film/1408/",
+        "title": "1408",
+        "poster": "/film/1408/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/9/9/4/4/49944-1408-0-70-0-105-crop.jpg?v=f0129a1ed0",
+        "year": "2007",
+        "rating": "7",
+        "desc": "<p>This is based on the 1999 short story of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "27809",
+        "link": "https://letterboxd.com/film/casino-royale-2006/",
+        "title": "Casino Royale",
+        "poster": "/film/casino-royale-2006/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/qb/if/j8/jr/zlWBxz2pTA9p45kUTrI8AQiKrHm-0-70-0-105-crop.jpg?v=c06add9fe8",
+        "year": "2006",
+        "rating": "8",
+        "desc": "<p>This is based on the 1953 novel of the same name by Ian Fleming.</p>"
+    },
+    {
+        "id": "57152",
+        "link": "https://letterboxd.com/film/abraham-lincoln-vampire-hunter/",
+        "title": "Abraham Lincoln: Vampire Hunter",
+        "poster": "/film/abraham-lincoln-vampire-hunter/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/v3/ut/cn/79/lHcaLiPDDrLmJAL2MTlMzgM2s2x-0-70-0-105-crop.jpg?v=0563a055f7",
+        "year": "2012",
+        "rating": null,
+        "desc": "<p>This is based on the 2010 mashup novel of the same name by Seth Grahame-Smith.</p>"
+    },
+    {
+        "id": "26481",
+        "link": "https://letterboxd.com/film/the-adjustment-bureau/",
+        "title": "The Adjustment Bureau",
+        "poster": "/film/the-adjustment-bureau/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/zd/q5/77/81/the-adjustment-bureau-original-1-0-70-0-105-crop.jpg?v=ee82bf3e0f",
+        "year": "2011",
+        "rating": "6",
+        "desc": "<p>This is based on the 1954 short story \"Adjustment Team\" by Philip K. Dick.</p>"
+    },
+    {
+        "id": "109677",
+        "link": "https://letterboxd.com/film/admission/",
+        "title": "Admission",
+        "poster": "/film/admission/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/cm/ba/o8/ic/jxNBmnP2Q1hTWuqCPUTRavGrjLt-0-70-0-105-crop.jpg?v=544b2fc5aa",
+        "year": "2013",
+        "rating": "6",
+        "desc": "<p>This is based on the 2009 novel of the same name by Jean Hanff Korelitz.</p>"
+    },
+    {
+        "id": "78376",
+        "link": "https://letterboxd.com/film/alex-cross/",
+        "title": "Alex Cross",
+        "poster": "/film/alex-cross/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/7/8/3/7/6/78376-alex-cross-0-70-0-105-crop.jpg?v=77ff3676dc",
+        "year": "2012",
+        "rating": null,
+        "desc": "<p>This is based on the 2006 novel <b><i>Cross</i></b> by James Patterson.</p>"
+    },
+    {
+        "id": "44748",
+        "link": "https://letterboxd.com/film/alice-in-wonderland-2010/",
+        "title": "Alice in Wonderland",
+        "poster": "/film/alice-in-wonderland-2010/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/qp/te/tw/3j/alice-in-wonderland-original-0-70-0-105-crop.jpg?v=aeea07bfc9",
+        "year": "2010",
+        "rating": "6",
+        "desc": "<p>This is loosely inspired by the 1865 novel <b><i>Alice's Adventures in Wonderland</i></b> and its 1871 sequel <b><i>Through the Looking-Glass, and What Alice Found There</i></b> by Lewis Carroll.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/alice-in-wonderland/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "44808",
+        "link": "https://letterboxd.com/film/alice-in-wonderland-1951/",
+        "title": "Alice in Wonderland",
+        "poster": "/film/alice-in-wonderland-1951/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/p5/63/wj/c3/AdwfqyNiH8UqeYKFYoiKhwTtjAb-0-70-0-105-crop.jpg?v=f9c56785d4",
+        "year": "1951",
+        "rating": "7",
+        "desc": "<p>This is loosely inspired by the 1865 novel <b><i>Alice's Adventures in Wonderland</i></b> and its 1871 sequel <b><i>Through the Looking-Glass, and What Alice Found There</i></b> by Lewis Carroll.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/alice-in-wonderland/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "36076",
+        "link": "https://letterboxd.com/film/all-the-kings-men/",
+        "title": "All the King’s Men",
+        "poster": "/film/all-the-kings-men/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/6/0/7/6/36076-all-the-king-s-men-0-70-0-105-crop.jpg?v=4bade1538a",
+        "year": "1949",
+        "rating": null,
+        "desc": "<p>This is based on the 1946 novel of the same name by Robert Penn Warren.</p>"
+    },
+    {
+        "id": "50834",
+        "link": "https://letterboxd.com/film/all-the-kings-men-2006/",
+        "title": "All the King’s Men",
+        "poster": "/film/all-the-kings-men-2006/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/5/0/8/3/4/p/xbzI59D00X4iEeEozFF5dl2PSJ6-0-70-0-105-crop.jpg?v=eca6da539f",
+        "year": "2006",
+        "rating": "5",
+        "desc": "<p>This is based on the 1946 novel of the same name by Robert Penn Warren.</p>"
+    },
+    {
+        "id": "5336",
+        "link": "https://letterboxd.com/film/the-american/",
+        "title": "The American",
+        "poster": "/film/the-american/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/3/3/6/5336-the-american-0-70-0-105-crop.jpg?v=06846e541a",
+        "year": "2010",
+        "rating": null,
+        "desc": "<p>This is based on the 1990 novel <b><i>A Very Private Gentleman</i></b> by Martin Booth.</p>"
+    },
+    {
+        "id": "148297",
+        "link": "https://letterboxd.com/film/inferno-2016/",
+        "title": "Inferno",
+        "poster": "/film/inferno-2016/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2016",
+        "rating": "6",
+        "desc": "<p>This is based on the 2013 novel of the same name by Dan Brown.</p>"
+    },
+    {
+        "id": "51530",
+        "link": "https://letterboxd.com/film/the-da-vinci-code/",
+        "title": "The Da Vinci Code",
+        "poster": "/film/the-da-vinci-code/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2006",
+        "rating": "7",
+        "desc": "<p>This is based on the 2003 novel of the same name by Dan Brown.</p>"
+    },
+    {
+        "id": "43882",
+        "link": "https://letterboxd.com/film/angels-demons/",
+        "title": "Angels & Demons",
+        "poster": "/film/angels-demons/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2009",
+        "rating": "6",
+        "desc": "<p>This is based on the 2000 novel of the same name by Dan Brown.</p>"
+    },
+    {
+        "id": "46728",
+        "link": "https://letterboxd.com/film/the-ant-bully/",
+        "title": "The Ant Bully",
+        "poster": "/film/the-ant-bully/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/7/2/8/46728-the-ant-bully-0-70-0-105-crop.jpg?v=83b524932f",
+        "year": "2006",
+        "rating": "5",
+        "desc": "<p>This is based on the 1999 children's book of the same name by John Nickle.</p>"
+    },
+    {
+        "id": "44365",
+        "link": "https://letterboxd.com/film/appaloosa/",
+        "title": "Appaloosa",
+        "poster": "/film/appaloosa/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/4/3/6/5/44365-appaloosa-0-70-0-105-crop.jpg?v=85a0aa930a",
+        "year": "2008",
+        "rating": "7",
+        "desc": "<p>This is based on the 2005 novel of the same name by Robert B. Parker.</p>"
+    },
+    {
+        "id": "43280",
+        "link": "https://letterboxd.com/film/aquamarine/",
+        "title": "Aquamarine",
+        "poster": "/film/aquamarine/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/3/2/8/0/43280-aquamarine-0-70-0-105-crop.jpg?v=572746e1a0",
+        "year": "2006",
+        "rating": "5",
+        "desc": "<p>This is loosely based on the 2001 young adult novel of the same name by Alice Hoffman.</p>"
+    },
+    {
+        "id": "46649",
+        "link": "https://letterboxd.com/film/arthur-and-the-invisibles/",
+        "title": "Arthur and the Invisibles",
+        "poster": "/film/arthur-and-the-invisibles/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/6/4/9/46649-arthur-and-the-invisibles-0-70-0-105-crop.jpg?v=acc23fb0e4",
+        "year": "2006",
+        "rating": "6",
+        "desc": "<p>This is based on the 2002 children's book <b><i>Arthur and the Minimoys</i></b> and its 2003 sequel <b><i>Arthur and the Forbidden City</i></b> by Luc Besson.</p>"
+    },
+    {
+        "id": "35270",
+        "link": "https://letterboxd.com/film/arthur-and-the-revenge-of-maltazard/",
+        "title": "Arthur and the Revenge of Maltazard",
+        "poster": "/film/arthur-and-the-revenge-of-maltazard/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/5/2/7/0/35270-arthur-and-the-revenge-of-maltazard-0-70-0-105-crop.jpg?v=27fb1e5071",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the 2004 children's book of the same title by Luc Besson.</p>"
+    },
+    {
+        "id": "22170",
+        "link": "https://letterboxd.com/film/arthur-3-the-war-of-the-two-worlds/",
+        "title": "Arthur 3: The War of the Two Worlds",
+        "poster": "/film/arthur-3-the-war-of-the-two-worlds/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/2/1/7/0/22170-arthur-3-the-war-of-the-two-worlds-0-70-0-105-crop.jpg?v=1e974f1e47",
+        "year": "2010",
+        "rating": null,
+        "desc": "<p>This is based on the 2005 children's book <b><i>Arthur and the War of Two Worlds</i></b> by Luc Besson.</p>"
+    },
+    {
+        "id": "49391",
+        "link": "https://letterboxd.com/film/atonement/",
+        "title": "Atonement",
+        "poster": "/film/atonement/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/44/vx/ah/pc/quaWuwYZd8IbZMCOhW3CZEvyCWJ-0-70-0-105-crop.jpg?v=690eaa9389",
+        "year": "2007",
+        "rating": null,
+        "desc": "<p>This is based on the 2001 novel of the same name by Ian McEwan.</p>"
+    },
+    {
+        "id": "47215",
+        "link": "https://letterboxd.com/film/babylon-ad/",
+        "title": "Babylon A.D.",
+        "poster": "/film/babylon-ad/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/mj/rl/ow/t0/3YXtGZ0jKHhh2bhqr0lu8qefKLr-0-70-0-105-crop.jpg?v=85d3551969",
+        "year": "2008",
+        "rating": "4",
+        "desc": "<p>This is based on the 1999 novel <b><i>Babylon Babies</i></b> by Maurice Georges Dantec.</p>"
+    },
+    {
+        "id": "128478",
+        "link": "https://letterboxd.com/film/baggage-claim-2013/",
+        "title": "Baggage Claim",
+        "poster": "/film/baggage-claim-2013/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/2/8/4/7/8/128478-baggage-claim-0-70-0-105-crop.jpg?v=01e8a6a309",
+        "year": "2013",
+        "rating": null,
+        "desc": "<p>This is based on the 2003 book of the same name by David E. Talbert.</p>"
+    },
+    {
+        "id": "26421",
+        "link": "https://letterboxd.com/film/beastly/",
+        "title": "Beastly",
+        "poster": "/film/beastly/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/6/4/2/1/26421-beastly-0-70-0-105-crop.jpg?v=226f797a77",
+        "year": "2011",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 2007 novel of the same name by Alex Flinn.</p><p>The novel is a modern adaptation of the 18th-century French fairy tale <b><i>Beauty and the Beast</i></b> by Jeanne-Marie Leprince de Beaumont, itself adapted from a fairy tale written by French novelist Gabrielle-Suzanne Barbot de Villeneuve.</p>"
+    },
+    {
+        "id": "87918",
+        "link": "https://letterboxd.com/film/beautiful-creatures-2013/",
+        "title": "Beautiful Creatures",
+        "poster": "/film/beautiful-creatures-2013/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/8/7/9/1/8/87918-beautiful-creatures-0-70-0-105-crop.jpg?v=0ab164d798",
+        "year": "2013",
+        "rating": null,
+        "desc": "<p>This is based on the 2009 novel of the same name by Kami Garcia and Margaret Stohl.</p>"
+    },
+    {
+        "id": "46622",
+        "link": "https://letterboxd.com/film/beauty-and-the-beast-1991/",
+        "title": "Beauty and the Beast",
+        "poster": "/film/beauty-and-the-beast-1991/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/6/6/2/2/p/6DDJ8o2d6T4fpGWECLF4xBGTyAM-0-70-0-105-crop.jpg?v=a2a0932671",
+        "year": "1991",
+        "rating": "8",
+        "desc": "<p>This is based on the 18th-century French fairy tale of the same name by Jeanne-Marie Leprince de Beaumont, itself adapted from a fairy tale written by French novelist Gabrielle-Suzanne Barbot de Villeneuve.</p>"
+    },
+    {
+        "id": "50341",
+        "link": "https://letterboxd.com/film/beowulf-2007/",
+        "title": "Beowulf",
+        "poster": "/film/beowulf-2007/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/0/3/4/1/50341-beowulf-0-70-0-105-crop.jpg?v=fb9efc14e8",
+        "year": "2007",
+        "rating": "6",
+        "desc": "<p>This is based on the Old English epic poem of the same name by an unknown author.</p>"
+    },
+    {
+        "id": "60330",
+        "link": "https://letterboxd.com/film/the-big-year/",
+        "title": "The Big Year",
+        "poster": "/film/the-big-year/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/92/s5/kk/bo/kBnR6jbFRnbSQTqLEcDpKd7FxK5-0-70-0-105-crop.jpg?v=27bf8aed06",
+        "year": "2011",
+        "rating": "7",
+        "desc": "<p>This is based on the 2003 nonfiction book <b><i>The Big Year: A Tale of Man, Nature and Fowl Obsession</i></b> by Mark Obmascik.</p>"
+    },
+    {
+        "id": "46928",
+        "link": "https://letterboxd.com/film/the-black-dahlia/",
+        "title": "The Black Dahlia",
+        "poster": "/film/the-black-dahlia/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/ce/j1/am/ur/uKqq60WypjIG7YUIKhrUhF7cRdB-0-70-0-105-crop.jpg?v=54a719c1d1",
+        "year": "2006",
+        "rating": "6",
+        "desc": "<p>This is based on the 1987 novel of the same name by James Ellroy.</p>"
+    },
+    {
+        "id": "37648",
+        "link": "https://letterboxd.com/film/the-blind-side/",
+        "title": "The Blind Side",
+        "poster": "/film/the-blind-side/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/et/lu/jq/mu/the-blind-side-0-70-0-105-crop.jpg?v=075ead1c26",
+        "year": "2009",
+        "rating": "8",
+        "desc": "<p>This is based on the 2006 book <b><i>The Blind Side: Evolution of a Game</i></b> by Michael Lewis.</p>"
+    },
+    {
+        "id": "47797",
+        "link": "https://letterboxd.com/film/blindness/",
+        "title": "Blindness",
+        "poster": "/film/blindness/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/7/7/9/7/47797-blindness-0-70-0-105-crop.jpg?v=f9a8ae197e",
+        "year": "2008",
+        "rating": "6",
+        "desc": "<p>This is based on the 1995 novel of the same name by José Saramago.</p>"
+    },
+    {
+        "id": "46571",
+        "link": "https://letterboxd.com/film/blood-and-chocolate/",
+        "title": "Blood and Chocolate",
+        "poster": "/film/blood-and-chocolate/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/5/7/1/46571-blood-and-chocolate-0-70-0-105-crop.jpg?v=92ed7eb1d0",
+        "year": "2007",
+        "rating": "5",
+        "desc": "<p>This is loosely based on the 1997 young adult novel of the same name by Annette Curtis Klause.</p>"
+    },
+    {
+        "id": "44788",
+        "link": "https://letterboxd.com/film/body-of-lies/",
+        "title": "Body of Lies",
+        "poster": "/film/body-of-lies/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/4/7/8/8/44788-body-of-lies-0-70-0-105-crop.jpg?v=957de30a37",
+        "year": "2008",
+        "rating": "7",
+        "desc": "<p>This is based on the 2007 novel of the same name by David Ignatius.</p>"
+    },
+    {
+        "id": "50225",
+        "link": "https://letterboxd.com/film/the-bourne-identity-2002/",
+        "title": "The Bourne Identity",
+        "poster": "/film/the-bourne-identity-2002/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/0/2/2/5/50225-the-bourne-identity-0-70-0-105-crop.jpg?v=84a1e28f00",
+        "year": "2002",
+        "rating": "7",
+        "desc": "<p>This is based on the 1980 novel of the same name by Robert Ludlum.</p>"
+    },
+    {
+        "id": "50224",
+        "link": "https://letterboxd.com/film/the-bourne-supremacy/",
+        "title": "The Bourne Supremacy",
+        "poster": "/film/the-bourne-supremacy/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/0/2/2/4/50224-the-bourne-supremacy-0-70-0-105-crop.jpg?v=a65c73bc56",
+        "year": "2004",
+        "rating": "7",
+        "desc": "<p>This is based on the 1986 novel of the same name by Robert Ludlum, although the plot differs greatly.</p>"
+    },
+    {
+        "id": "50223",
+        "link": "https://letterboxd.com/film/the-bourne-ultimatum/",
+        "title": "The Bourne Ultimatum",
+        "poster": "/film/the-bourne-ultimatum/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2007",
+        "rating": "8",
+        "desc": "<p>This is loosely based on the 1990 novel of the same name by Robert Ludlum</p>"
+    },
+    {
+        "id": "37670",
+        "link": "https://letterboxd.com/film/the-box-2009/",
+        "title": "The Box",
+        "poster": "/film/the-box-2009/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2009",
+        "rating": "5",
+        "desc": "<p>This is based on the 1970 short story \"Button, Button\" by Richard Matheson.</p>"
+    },
+    {
+        "id": "42983",
+        "link": "https://letterboxd.com/film/the-boy-in-the-striped-pyjamas/",
+        "title": "The Boy in the Striped Pyjamas",
+        "poster": "/film/the-boy-in-the-striped-pyjamas/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2008",
+        "rating": null,
+        "desc": "<p>This is based on the 2006 novel of the same name by John Boyne.</p>"
+    },
+    {
+        "id": "51117",
+        "link": "https://letterboxd.com/film/bridge-to-terabithia/",
+        "title": "Bridge to Terabithia",
+        "poster": "/film/bridge-to-terabithia/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/1/1/7/51117-bridge-to-terabithia-0-70-0-105-crop.jpg?v=424632b691",
+        "year": "2007",
+        "rating": "6",
+        "desc": "<p>This is based on the 1977 novel of the same name by Katherine Paterson.</p>"
+    },
+    {
+        "id": "124620",
+        "link": "https://letterboxd.com/film/bridge-to-terabithia-1985/",
+        "title": "Bridge to Terabithia",
+        "poster": "/film/bridge-to-terabithia-1985/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/2/4/6/2/0/124620-bridge-to-terabithia-1985-0-70-0-105-crop.jpg?v=8b929699c3",
+        "year": "1985",
+        "rating": null,
+        "desc": "<p>This is based on the 1977 novel of the same name by Katherine Paterson.</p>"
+    },
+    {
+        "id": "87964",
+        "link": "https://letterboxd.com/film/captain-phillips/",
+        "title": "Captain Phillips",
+        "poster": "/film/captain-phillips/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/40/ff/o6/j6/zyYLjnmr928WDLOxGPF1fzdu7E5-0-70-0-105-crop.jpg?v=fb0b4ffe39",
+        "year": "2013",
+        "rating": "8",
+        "desc": "<p>This is based on the 2010 book <b><i>A Captain's Duty: Somali Pirates, Navy SEALs, and Dangerous Days at Sea</i></b> by Richard Phillips and Stephan Talty.</p>"
+    },
+    {
+        "id": "51932",
+        "link": "https://letterboxd.com/film/charlie-and-the-chocolate-factory/",
+        "title": "Charlie and the Chocolate Factory",
+        "poster": "/film/charlie-and-the-chocolate-factory/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/2/51932-charlie-and-the-chocolate-factory-0-70-0-105-crop.jpg?v=cf68e10228",
+        "year": "2005",
+        "rating": "6",
+        "desc": "<p>This is based on the 1964 children's book of the same name by Roald Dahl.</p>"
+    },
+    {
+        "id": "51804",
+        "link": "https://letterboxd.com/film/willy-wonka-the-chocolate-factory/",
+        "title": "Willy Wonka & the Chocolate Factory",
+        "poster": "/film/willy-wonka-the-chocolate-factory/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/5/1/8/0/4/p/5tG8ONymGQ8LSe8arNhToGcfDG6-0-70-0-105-crop.jpg?v=693ae067b6",
+        "year": "1971",
+        "rating": "8",
+        "desc": "<p>This is based on the 1964 children's book <b><i>Charlie and the Chocolate Factory</i></b> by Roald Dahl.</p>"
+    },
+    {
+        "id": "26571",
+        "link": "https://letterboxd.com/film/charlie-st-cloud/",
+        "title": "Charlie St. Cloud",
+        "poster": "/film/charlie-st-cloud/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/0t/ee/s7/sk/1BNEw9dZJA9bK3bSaAF3OFqDfjT-0-70-0-105-crop.jpg?v=820f0f37e9",
+        "year": "2010",
+        "rating": null,
+        "desc": "<p>This is based on the 2004 novel <b><i>The Death and Life of Charlie St. Cloud</i></b> by Ben Sherwood.</p>"
+    },
+    {
+        "id": "48262",
+        "link": "https://letterboxd.com/film/charlie-wilsons-war/",
+        "title": "Charlie Wilson’s War",
+        "poster": "/film/charlie-wilsons-war/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/8/2/6/2/48262-charlie-wilson-s-war-0-70-0-105-crop.jpg?v=1eeb24a8dd",
+        "year": "2007",
+        "rating": "6",
+        "desc": "<p>This is based on the 2003 book <b><i>Charlie Wilson's War: The Extraordinary Story of the Largest Covert Operation in History</i></b> by George Crile III.</p>"
+    },
+    {
+        "id": "46655",
+        "link": "https://letterboxd.com/film/charlottes-web-2006/",
+        "title": "Charlotte’s Web",
+        "poster": "/film/charlottes-web-2006/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/m2/sl/nw/8t/r10VKsGGvGHKhNvP89SWYStF5mK-0-70-0-105-crop.jpg?v=87f8b3eb59",
+        "year": "2006",
+        "rating": "6",
+        "desc": "<p>This is based on the 1952 children's novel of the same name by E. B. White.</p>"
+    },
+    {
+        "id": "42544",
+        "link": "https://letterboxd.com/film/charlottes-web/",
+        "title": "Charlotte’s Web",
+        "poster": "/film/charlottes-web/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/2/5/4/4/42544-charlotte-s-web-0-70-0-105-crop.jpg?v=555bd08646",
+        "year": "1973",
+        "rating": "7",
+        "desc": "<p>This is based on the 1952 children's novel of the same name by E. B. White.</p>"
+    },
+    {
+        "id": "45695",
+        "link": "https://letterboxd.com/film/cheaper-by-the-dozen-2003/",
+        "title": "Cheaper by the Dozen",
+        "poster": "/film/cheaper-by-the-dozen-2003/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/5/6/9/5/45695-cheaper-by-the-dozen-0-70-0-105-crop.jpg?v=f32dbeb717",
+        "year": "2003",
+        "rating": "5",
+        "desc": "<p>This is based on the 1948 book of the same name by Frank B. Gilbreth, Jr. and Ernestine Gilbreth Carey.</p>"
+    },
+    {
+        "id": "29504",
+        "link": "https://letterboxd.com/film/cheaper-by-the-dozen/",
+        "title": "Cheaper by the Dozen",
+        "poster": "/film/cheaper-by-the-dozen/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/9/5/0/4/29504-cheaper-by-the-dozen-0-70-0-105-crop.jpg?v=86f5ac31b1",
+        "year": "1950",
+        "rating": null,
+        "desc": "<p>This is based on the 1948 book of the same name by Frank B. Gilbreth, Jr. and Ernestine Gilbreth Carey.</p>"
+    },
+    {
+        "id": "46911",
+        "link": "https://letterboxd.com/film/children-of-men/",
+        "title": "Children of Men",
+        "poster": "/film/children-of-men/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/ju/ac/6a/yi/lg7s7U1FQtB4VbLzvFUSgDX0frZ-0-70-0-105-crop.jpg?v=e4053ab6bf",
+        "year": "2006",
+        "rating": "8",
+        "desc": "<p>This is based on the 1992 novel <b><i>The Children of Men</i></b> by P. D. James.</p>"
+    },
+    {
+        "id": "40653",
+        "link": "https://letterboxd.com/film/a-christmas-carol-2009/",
+        "title": "A Christmas Carol",
+        "poster": "/film/a-christmas-carol-2009/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/0/6/5/3/40653-a-christmas-carol-0-70-0-105-crop.jpg?v=0f15421ac7",
+        "year": "2009",
+        "rating": "6",
+        "desc": "<p>This is based on the 1843 novella <b><i>A Christmas Carol. In Prose. Being a Ghost Story of Christmas</i></b> by Charles Dickens.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/christmas-carols/\" rel=\"nofollow\">here</a> and <a href=\"https://letterboxd.com/maxthemovieguy/list/nearly-every-single-christmas-carol/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "41419",
+        "link": "https://letterboxd.com/film/a-christmas-carol-1999/",
+        "title": "A Christmas Carol",
+        "poster": "/film/a-christmas-carol-1999/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/1/4/1/9/41419-a-christmas-carol-0-70-0-105-crop.jpg?v=e42188eaf1",
+        "year": "1999",
+        "rating": "7",
+        "desc": "<p>This is based on the 1843 novella <b><i>A Christmas Carol. In Prose. Being a Ghost Story of Christmas</i></b> by Charles Dickens.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/christmas-carols/\" rel=\"nofollow\">here</a> and <a href=\"https://letterboxd.com/maxthemovieguy/list/nearly-every-single-christmas-carol/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "46231",
+        "link": "https://letterboxd.com/film/the-muppet-christmas-carol/",
+        "title": "The Muppet Christmas Carol",
+        "poster": "/film/the-muppet-christmas-carol/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/6/2/3/1/ptt/the-muppet-christmas-carol-md-web-0-70-0-105-crop.jpg?v=88de717e93",
+        "year": "1992",
+        "rating": "8",
+        "desc": "<p>This is based on the 1843 novella <b><i>A Christmas Carol. In Prose. Being a Ghost Story of Christmas</i></b> by Charles Dickens.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/christmas-carols/\" rel=\"nofollow\">here</a> and <a href=\"https://letterboxd.com/maxthemovieguy/list/nearly-every-single-christmas-carol/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "44065",
+        "link": "https://letterboxd.com/film/scrooge-1951/",
+        "title": "Scrooge",
+        "poster": "/film/scrooge-1951/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/4/0/6/5/p/sxLRt2u5xgUgkrIAPyE0KiiSVnX-0-70-0-105-crop.jpg?v=d8e8a9d21b",
+        "year": "1951",
+        "rating": "8",
+        "desc": "<p>This is based on the 1843 novella <b><i>A Christmas Carol. In Prose. Being a Ghost Story of Christmas</i></b> by Charles Dickens.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/christmas-carols/\" rel=\"nofollow\">here</a> and <a href=\"https://letterboxd.com/maxthemovieguy/list/nearly-every-single-christmas-carol/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "51679",
+        "link": "https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/",
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "poster": "/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/qz/9c/5h/2g/tFOQ4q6JnHcdw58ThL4SzFv37NT-0-70-0-105-crop.jpg?v=2d446cc094",
+        "year": "2005",
+        "rating": "8",
+        "desc": "<p>This is based on the 1950 children's novel <b><i>The Lion, the Witch and the Wardrobe</i></b> by C.S. Lewis.</p>"
+    },
+    {
+        "id": "50242",
+        "link": "https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/",
+        "title": "The Chronicles of Narnia: Prince Caspian",
+        "poster": "/film/the-chronicles-of-narnia-prince-caspian/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/0t/m9/29/er/kSSyzqw9C4wUggicG4D81XmptR1-0-70-0-105-crop.jpg?v=63237a1ecf",
+        "year": "2008",
+        "rating": "7",
+        "desc": "<p>This is based on the 1951 children's novel <b><i>Prince Caspian</i></b> by C.S. Lewis.</p>"
+    },
+    {
+        "id": "46509",
+        "link": "https://letterboxd.com/film/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/",
+        "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+        "poster": "/film/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/6m/cd/1f/3y/pRzEyrMSyvpHf92EhsVSg9Yr81t-0-70-0-105-crop.jpg?v=6a8e01c64d",
+        "year": "2010",
+        "rating": "6",
+        "desc": "<p>This is based on the 1952 children's novel <b><i>The Voyage of the Dawn Treader</i></b> by C.S. Lewis.</p>"
+    },
+    {
+        "id": "617714",
+        "link": "https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian-the-voyage-of-the-dawn-treader/",
+        "title": "The Chronicles of Narnia: Prince Caspian & The Voyage of the Dawn Treader",
+        "poster": "/film/the-chronicles-of-narnia-prince-caspian-the-voyage-of-the-dawn-treader/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1989",
+        "rating": null,
+        "desc": "<p>This is based on the 1951 children's novel <b><i>Prince Caspian</i></b> and its 1952 sequel <b><i>The Voyage of the Dawn Treader</i></b> by C. S. Lewis.</p>"
+    },
+    {
+        "id": "24354",
+        "link": "https://letterboxd.com/film/the-lion-the-witch-and-the-wardrobe/",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "poster": "/film/the-lion-the-witch-and-the-wardrobe/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/4/3/5/4/24354-the-lion-the-witch-and-the-wardrobe-0-70-0-105-crop.jpg?v=2e5a5f9dd8",
+        "year": "1979",
+        "rating": null,
+        "desc": "<p>This is based on the 1950 children's novel of the same by C.S. Lewis.</p>"
+    },
+    {
+        "id": "51094",
+        "link": "https://letterboxd.com/film/the-hobbit/",
+        "title": "The Hobbit",
+        "poster": "/film/the-hobbit/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/m4/1e/fb/08/8KYEsBl0bT4V3HzOawohxlhIJB6-0-70-0-105-crop.jpg?v=9333036d59",
+        "year": "1977",
+        "rating": null,
+        "desc": "<p>This is based on the 1937 novel of the same name by J.R.R. Tolkien.</p>"
+    },
+    {
+        "id": "43750",
+        "link": "https://letterboxd.com/film/city-of-ember/",
+        "title": "City of Ember",
+        "poster": "/film/city-of-ember/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/kp/mz/ak/e5/vtlcA292oROPaG74amLsAhtBNbB-0-70-0-105-crop.jpg?v=5b73e490aa",
+        "year": "2008",
+        "rating": null,
+        "desc": "<p>This is based on the 2003 novel <b><i>The City of Ember</i></b> by Jeanne DuPrau.</p>"
+    },
+    {
+        "id": "37696",
+        "link": "https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/",
+        "title": "Cloudy with a Chance of Meatballs",
+        "poster": "/film/cloudy-with-a-chance-of-meatballs/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/7/6/9/6/37696-cloudy-with-a-chance-of-meatballs-0-70-0-105-crop.jpg?v=2352e21a4c",
+        "year": "2009",
+        "rating": "7",
+        "desc": "<p>This is loosely based on the 1978 children's book of the same name by Judi and Ron Barrett.</p>"
+    },
+    {
+        "id": "47209",
+        "link": "https://letterboxd.com/film/conan-the-barbarian/",
+        "title": "Conan the Barbarian",
+        "poster": "/film/conan-the-barbarian/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/l3/q8/y7/u2/9siMCK6u0TtgDVtCJQGKRQAnAqA-0-70-0-105-crop.jpg?v=b84b8613bd",
+        "year": "1982",
+        "rating": null,
+        "desc": "<p>This is based on the 1932 pulp-fiction character created by Robert E. Howard.</p>"
+    },
+    {
+        "id": "27044",
+        "link": "https://letterboxd.com/film/conan-the-barbarian-2011/",
+        "title": "Conan the Barbarian",
+        "poster": "/film/conan-the-barbarian-2011/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/ef/t5/6f/71/fQ0lcaOpn2WozSnL5hfAhH6tYOA-0-70-0-105-crop.jpg?v=9ab3083306",
+        "year": "2011",
+        "rating": null,
+        "desc": "<p>This is based on the 1932 pulp-fiction character created by Robert E. Howard.</p>"
+    },
+    {
+        "id": "39266",
+        "link": "https://letterboxd.com/film/confessions-of-a-shopaholic/",
+        "title": "Confessions of a Shopaholic",
+        "poster": "/film/confessions-of-a-shopaholic/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/9/2/6/6/39266-confessions-of-a-shopaholic-0-70-0-105-crop.jpg?v=460aa6f54c",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the first two entries in the <b><i>Shopaholic</i></b> series of novels by Sophie Kinsella, <b><i>The Secret Dreamworld of a Shopaholic</i></b> and <b><i>Shopaholic Abroad</i></b>, published in 2000 and 2001 respectively.</p>"
+    },
+    {
+        "id": "49075",
+        "link": "https://letterboxd.com/film/the-curious-case-of-benjamin-button/",
+        "title": "The Curious Case of Benjamin Button",
+        "poster": "/film/the-curious-case-of-benjamin-button/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/yh/ob/ip/lw/gjMR102u5hPdIAWX7O2rim8ZWgA-0-70-0-105-crop.jpg?v=3beffc5097",
+        "year": "2008",
+        "rating": "8",
+        "desc": "<p>This is loosely based on the 1922 short story of the same name by F. Scott Fitzgerald.</p>"
+    },
+    {
+        "id": "46664",
+        "link": "https://letterboxd.com/film/curious-george/",
+        "title": "Curious George",
+        "poster": "/film/curious-george/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/6/6/4/46664-curious-george-0-70-0-105-crop.jpg?v=5d3a760fa3",
+        "year": "2006",
+        "rating": "6",
+        "desc": "<p>This is based on the children's book series of the same name by H.A. Rey and Margret Rey.</p>"
+    },
+    {
+        "id": "17288",
+        "link": "https://letterboxd.com/film/a-dangerous-method/",
+        "title": "A Dangerous Method",
+        "poster": "/film/a-dangerous-method/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/7/2/8/8/17288-a-dangerous-method-0-70-0-105-crop.jpg?v=e0a909bc81",
+        "year": "2011",
+        "rating": null,
+        "desc": "<p>This is based on the 1993 non-fiction book <b><i>A Most Dangerous Method: The Story of Jung, Freud, and Sabina Spielrein</i></b> by John Kerr.</p>"
+    },
+    {
+        "id": "46451",
+        "link": "https://letterboxd.com/film/the-day-the-earth-stood-still-2008/",
+        "title": "The Day the Earth Stood Still",
+        "poster": "/film/the-day-the-earth-stood-still-2008/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/4/5/1/46451-the-day-the-earth-stood-still-0-70-0-105-crop.jpg?v=cff37734d7",
+        "year": "2008",
+        "rating": "5",
+        "desc": "<p>This is based on the 1940 short story \"Farewell to the Master\" by Harry Bates.</p>"
+    },
+    {
+        "id": "51324",
+        "link": "https://letterboxd.com/film/the-day-the-earth-stood-still/",
+        "title": "The Day the Earth Stood Still",
+        "poster": "/film/the-day-the-earth-stood-still/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/4/51324-the-day-the-earth-stood-still-0-70-0-105-crop.jpg?v=81921fa964",
+        "year": "1951",
+        "rating": null,
+        "desc": "<p>This is based on the 1940 short story \"Farewell to the Master\" by Harry Bates.</p>"
+    },
+    {
+        "id": "37597",
+        "link": "https://letterboxd.com/film/dear-john/",
+        "title": "Dear John",
+        "poster": "/film/dear-john/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/7/5/9/7/37597-dear-john-0-70-0-105-crop.jpg?v=89d28b9aef",
+        "year": "2010",
+        "rating": null,
+        "desc": "<p>This is based on the 2006 novel of the same name by Nicholas Sparks.</p>"
+    },
+    {
+        "id": "44012",
+        "link": "https://letterboxd.com/film/death-race-2000/",
+        "title": "Death Race 2000",
+        "poster": "/film/death-race-2000/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/4/0/1/2/44012-death-race-2000-0-70-0-105-crop.jpg?v=35f1de5f36",
+        "year": "1975",
+        "rating": "6",
+        "desc": "<p>This is based on the 1956 short story \"The Racer\" by Ib Melchior.</p>"
+    },
+    {
+        "id": "46186",
+        "link": "https://letterboxd.com/film/death-race/",
+        "title": "Death Race",
+        "poster": "/film/death-race/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/1/8/6/46186-death-race-0-70-0-105-crop.jpg?v=b3cbdacce3",
+        "year": "2008",
+        "rating": "6",
+        "desc": "<p>This is based on the 1956 short story \"The Racer\" by Ib Melchior.</p>"
+    },
+    {
+        "id": "44966",
+        "link": "https://letterboxd.com/film/death-sentence-2007/",
+        "title": "Death Sentence",
+        "poster": "/film/death-sentence-2007/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/4/9/6/6/44966-death-sentence-0-70-0-105-crop.jpg?v=50a0cda226",
+        "year": "2007",
+        "rating": "6",
+        "desc": "<p>This is loosely based on the 1975 novel of the same name by Brian Garfield.</p>"
+    },
+    {
+        "id": "43575",
+        "link": "https://letterboxd.com/film/defiance/",
+        "title": "Defiance",
+        "poster": "/film/defiance/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/rz/fm/mz/qc/ArY2fs0nK6DbrCKrxaMeCTVRZ0i-0-70-0-105-crop.jpg?v=139923a3c8",
+        "year": "2008",
+        "rating": null,
+        "desc": "<p>This is based on the 1993 book <b><i>Defiance: The Bielski Partisans</i></b> by Nechama Tec.</p>"
+    },
+    {
+        "id": "133422",
+        "link": "https://letterboxd.com/film/deliver-us-from-evil-2014/",
+        "title": "Deliver Us from Evil",
+        "poster": "/film/deliver-us-from-evil-2014/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/47/qq/ge/pe/deliver-us-from-evil-0-70-0-105-crop.jpg?v=c1ee0f1685",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is based on the 2001 non-fiction book <b><i>Beware the Night</i></b> by Ralph Sarchie and Lisa Collier Cool.</p>"
+    },
+    {
+        "id": "47439",
+        "link": "https://letterboxd.com/film/derailed-2005/",
+        "title": "Derailed",
+        "poster": "/film/derailed-2005/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/7/4/3/9/47439-derailed-0-70-0-105-crop.jpg?v=e2b7ef8180",
+        "year": "2005",
+        "rating": "6",
+        "desc": "<p>This is based on the 2003 novel of the same name by James Siegel.</p>"
+    },
+    {
+        "id": "29947",
+        "link": "https://letterboxd.com/film/diary-of-a-wimpy-kid/",
+        "title": "Diary of a Wimpy Kid",
+        "poster": "/film/diary-of-a-wimpy-kid/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/9/9/4/7/29947-diary-of-a-wimpy-kid-0-70-0-105-crop.jpg?v=ac8c399cae",
+        "year": "2010",
+        "rating": null,
+        "desc": "<p>This is based on the 2007 children's book of the same name by Jeff Kinney.</p>"
+    },
+    {
+        "id": "6287",
+        "link": "https://letterboxd.com/film/diary-of-a-wimpy-kid-rodrick-rules/",
+        "title": "Diary of a Wimpy Kid: Rodrick Rules",
+        "poster": "/film/diary-of-a-wimpy-kid-rodrick-rules/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/6/2/8/7/6287-diary-of-a-wimpy-kid-rodrick-rules-0-70-0-105-crop.jpg?v=8d6d10d6bd",
+        "year": "2011",
+        "rating": null,
+        "desc": "<p>This is based on the 2008 children's book of the same name by Jeff Kinney, adding some elements from the 2009 children's book <b><i>Diary of a Wimpy Kid: The Last Straw</i></b>, also by Jeff Kinney.</p>"
+    },
+    {
+        "id": "69068",
+        "link": "https://letterboxd.com/film/diary-of-a-wimpy-kid-dog-days/",
+        "title": "Diary of a Wimpy Kid: Dog Days",
+        "poster": "/film/diary-of-a-wimpy-kid-dog-days/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/6/9/0/6/8/69068-diary-of-a-wimpy-kid-dog-days-0-70-0-105-crop.jpg?v=0736c9e82d",
+        "year": "2012",
+        "rating": null,
+        "desc": "<p>This is based on the 2009 children's book of the same name by Jeff Kinney, adding some elements from the 2009 children's book <b><i>Diary of a Wimpy Kid: The Last Straw</i></b>, also by Jeff Kinney.</p>"
+    },
+    {
+        "id": "117583",
+        "link": "https://letterboxd.com/film/divergent/",
+        "title": "Divergent",
+        "poster": "/film/divergent/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/1/7/5/8/3/117583-divergent-0-70-0-105-crop.jpg?v=20d428124b",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 novel of the same name by Veronica Roth.</p>"
+    },
+    {
+        "id": "185970",
+        "link": "https://letterboxd.com/film/insurgent/",
+        "title": "Insurgent",
+        "poster": "/film/insurgent/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/8/5/9/7/0/185970-insurgent-0-70-0-105-crop.jpg?v=6d8e034ab4",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novel of the same name by Veronica Roth.</p>"
+    }
+]

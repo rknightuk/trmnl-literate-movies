@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "49023",
+        "link": "https://letterboxd.com/film/paprika-2006/",
+        "title": "Paprika",
+        "poster": "/film/paprika-2006/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/9/0/2/3/p/7AJ6iGsIkpv3fAut77eTeeEobUV-0-70-0-105-crop.jpg?v=2ec2447f1e",
+        "year": "2006",
+        "rating": "8",
+        "desc": "<p>This is based on the 1993 novel of the same name by Yasutaka Tsutsui.</p>"
+    },
+    {
+        "id": "6764",
+        "link": "https://letterboxd.com/film/barjo/",
+        "title": "Barjo",
+        "poster": "/film/barjo/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/6/7/6/4/6764-barjo-0-70-0-105-crop.jpg?v=6ef3c0faac",
+        "year": "1992",
+        "rating": null,
+        "desc": "<p>This is based on the 1975 novel <b><i>Confessions of a Crap Artist</i></b> by Philip K. Dick.</p>"
+    },
+    {
+        "id": "47343",
+        "link": "https://letterboxd.com/film/screamers-1995/",
+        "title": "Screamers",
+        "poster": "/film/screamers-1995/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/xv/pf/0v/c1/aFEs7D7IQ2IehTsniRIojDkiDl6-0-70-0-105-crop.jpg?v=9b7fc677de",
+        "year": "1995",
+        "rating": null,
+        "desc": "<p>This is based on the 1953 short story \"Second Variety\" by Philip K. Dick.</p>"
+    },
+    {
+        "id": "49034",
+        "link": "https://letterboxd.com/film/impostor/",
+        "title": "Impostor",
+        "poster": "/film/impostor/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/9/0/3/4/49034-impostor-0-70-0-105-crop.jpg?v=d72172eadd",
+        "year": "2001",
+        "rating": null,
+        "desc": "<p>This is based on the 1953 short story of the same name by Philip K. Dick.</p>"
+    },
+    {
+        "id": "49710",
+        "link": "https://letterboxd.com/film/a-scanner-darkly/",
+        "title": "A Scanner Darkly",
+        "poster": "/film/a-scanner-darkly/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/68/rw/e9/tb/wS0QhF2RTwap84BKGr9hKHzNAMx-0-70-0-105-crop.jpg?v=d11b983543",
+        "year": "2006",
+        "rating": "7",
+        "desc": "<p>This is based on the 1977 novel of the same name by Philip K. Dick.</p>"
+    },
+    {
+        "id": "106591",
+        "link": "https://letterboxd.com/film/radio-free-albemuth/",
+        "title": "Radio Free Albemuth",
+        "poster": "/film/radio-free-albemuth/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/0/6/5/9/1/106591-radio-free-albemuth-0-70-0-105-crop.jpg?v=ba4ed7375e",
+        "year": "2010",
+        "rating": null,
+        "desc": "<p>This is based on the 1985 novel of the same name by Philip K. Dick.</p>"
+    },
+    {
+        "id": "225225",
+        "link": "https://letterboxd.com/film/big-driver/",
+        "title": "Big Driver",
+        "poster": "/film/big-driver/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/2/5/2/2/5/225225-big-driver-0-70-0-105-crop.jpg?v=a49fbefff2",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is based on the 2010 novella of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "46120",
+        "link": "https://letterboxd.com/film/cats-eye/",
+        "title": "Cat’s Eye",
+        "poster": "/film/cats-eye/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/1/2/0/46120-cat-s-eye-0-70-0-105-crop.jpg?v=03a9cb2639",
+        "year": "1985",
+        "rating": null,
+        "desc": "<p>This includes segments based on the short stories \"Quitters, Inc.\" (1978) and \"The Ledge\" (1976) by Stephen King.</p>"
+    },
+    {
+        "id": "35820",
+        "link": "https://letterboxd.com/film/children-of-the-corn-2009/",
+        "title": "Children of the Corn",
+        "poster": "/film/children-of-the-corn-2009/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/5/8/2/0/35820-children-of-the-corn-0-70-0-105-crop.jpg?v=11afaaaf51",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the 1977 short story of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "47615",
+        "link": "https://letterboxd.com/film/christine-1983/",
+        "title": "Christine",
+        "poster": "/film/christine-1983/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/7/6/1/5/47615-christine-0-70-0-105-crop.jpg?v=368af14bb5",
+        "year": "1983",
+        "rating": "7",
+        "desc": "<p>This is based on the 1983 novel of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "41682",
+        "link": "https://letterboxd.com/film/creepshow/",
+        "title": "Creepshow",
+        "poster": "/film/creepshow/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/n4/sm/so/1r/2oYLBnELBPbOKBQd9MKOqOmJ6aH-0-70-0-105-crop.jpg?v=6140c7ccce",
+        "year": "1982",
+        "rating": "8",
+        "desc": "<p>The segment \"The Lonesome Death of Jordy Verrill\" is based on the 1976 short story \"Weeds\" by Stephen King.</p><p>The segment \"The Crate\" is based on the 1979 short story of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "41677",
+        "link": "https://letterboxd.com/film/creepshow-2/",
+        "title": "Creepshow 2",
+        "poster": "/film/creepshow-2/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1987",
+        "rating": "5",
+        "desc": "<p>The segment \"The Raft\" is based on the 1982 short story of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "282539",
+        "link": "https://letterboxd.com/film/the-dead-zone-2002/",
+        "title": "The Dead Zone",
+        "poster": "/film/the-dead-zone-2002/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2002",
+        "rating": null,
+        "desc": "<p>This is based on the 1979 novel of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "46638",
+        "link": "https://letterboxd.com/film/desperation/",
+        "title": "Desperation",
+        "poster": "/film/desperation/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2006",
+        "rating": null,
+        "desc": "<p>This is based on the 1996 novel of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "39393",
+        "link": "https://letterboxd.com/film/dolans-cadillac/",
+        "title": "Dolan’s Cadillac",
+        "poster": "/film/dolans-cadillac/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on a 1993 novella of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "365816",
+        "link": "https://letterboxd.com/film/everythings-eventual/",
+        "title": "Everything’s Eventual",
+        "poster": "/film/everythings-eventual/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the 1997 novella of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "39816",
+        "link": "https://letterboxd.com/film/graveyard-shift/",
+        "title": "Graveyard Shift",
+        "poster": "/film/graveyard-shift/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1990",
+        "rating": "4",
+        "desc": "<p>This is based on the 1970 short story of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "452596",
+        "link": "https://letterboxd.com/film/in-the-tall-grass-2019/",
+        "title": "In the Tall Grass",
+        "poster": "/film/in-the-tall-grass-2019/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2019",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novella of the same name by Stephen King and Joe Hill.</p>"
+    },
+    {
+        "id": "43785",
+        "link": "https://letterboxd.com/film/the-mangler/",
+        "title": "The Mangler",
+        "poster": "/film/the-mangler/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1995",
+        "rating": null,
+        "desc": "<p>This is based on the 1972 short story of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "131173",
+        "link": "https://letterboxd.com/film/mercy-2014/",
+        "title": "Mercy",
+        "poster": "/film/mercy-2014/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 1984 short story \"Gramma\" by Stephen King.</p>"
+    },
+    {
+        "id": "35494",
+        "link": "https://letterboxd.com/film/quicksilver-highway/",
+        "title": "Quicksilver Highway",
+        "poster": "/film/quicksilver-highway/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1997",
+        "rating": "3",
+        "desc": "<p>This is based on the 1985 short story \"The Body Politic\" by Clive Barker and the 1992 short story \"Chattery Teeth\" by Stephen King.</p>"
+    },
+    {
+        "id": "34217",
+        "link": "https://letterboxd.com/film/sometimes-they-come-back/",
+        "title": "Sometimes They Come Back",
+        "poster": "/film/sometimes-they-come-back/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1991",
+        "rating": null,
+        "desc": "<p>This is based on the 1974 short story of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "38838",
+        "link": "https://letterboxd.com/film/tales-from-the-darkside-the-movie/",
+        "title": "Tales from the Darkside: The Movie",
+        "poster": "/film/tales-from-the-darkside-the-movie/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1990",
+        "rating": "5",
+        "desc": "<p>The segment \"Lot 249\" is based on the 1892 short story \"Lot No. 249\" by Sir Arthur Conan Doyle.</p><p>The segment \"Cat from Hell\" is based on the 1977 short story \"The Cat from Hell\" by Stephen King.</p>"
+    },
+    {
+        "id": "461888",
+        "link": "https://letterboxd.com/film/firestarter-1/",
+        "title": "Firestarter",
+        "poster": "/film/firestarter-1/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2022",
+        "rating": "5",
+        "desc": "<p>This is based on the 1980 novel of the same name by Stephen King.</p>"
+    },
+    {
+        "id": "353590",
+        "link": "https://letterboxd.com/film/crooked-house-2017/",
+        "title": "Crooked House",
+        "poster": "/film/crooked-house-2017/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 1949 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "46369",
+        "link": "https://letterboxd.com/film/the-great-alibi/",
+        "title": "The Great Alibi",
+        "poster": "/film/the-great-alibi/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2008",
+        "rating": null,
+        "desc": "<p>This is based on the 1946 novel <b><i>The Hollow</i></b> by Agatha Christie.</p>"
+    },
+    {
+        "id": "23009",
+        "link": "https://letterboxd.com/film/sparkling-cyanide-2003/",
+        "title": "Sparkling Cyanide",
+        "poster": "/film/sparkling-cyanide-2003/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2003",
+        "rating": null,
+        "desc": "<p>This is based on the 1945 novel of the same name (originally published under the title <b><i>Remembered Death</i></b>), which was an expansion of a 1937 short story \"Yellow Iris\", by Agatha Christie.</p>"
+    },
+    {
+        "id": "48457",
+        "link": "https://letterboxd.com/film/murder-on-the-orient-express-2001/",
+        "title": "Murder on the Orient Express",
+        "poster": "/film/murder-on-the-orient-express-2001/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2001",
+        "rating": null,
+        "desc": "<p>This is based on the 1934 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "10052",
+        "link": "https://letterboxd.com/film/agatha-christies-the-pale-horse/",
+        "title": "Agatha Christie’s The Pale Horse",
+        "poster": "/film/agatha-christies-the-pale-horse/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1997",
+        "rating": null,
+        "desc": "<p>This is based on the 1961 novel <b><i>The Pale Horse</i></b> by Agatha Christie.</p>"
+    },
+    {
+        "id": "84097",
+        "link": "https://letterboxd.com/film/ten-little-indians-1989/",
+        "title": "Ten Little Indians",
+        "poster": "/film/ten-little-indians-1989/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1989",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel <b><i>And Then There Were None</i></b> (previously published under two other offensive titles, including the name of this film) by Agatha Christie.</p>"
+    },
+    {
+        "id": "23027",
+        "link": "https://letterboxd.com/film/the-man-in-the-brown-suit/",
+        "title": "The Man in the Brown Suit",
+        "poster": "/film/the-man-in-the-brown-suit/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1989",
+        "rating": null,
+        "desc": "<p>This is based on the 1924 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "49419",
+        "link": "https://letterboxd.com/film/appointment-with-death/",
+        "title": "Appointment with Death",
+        "poster": "/film/appointment-with-death/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1988",
+        "rating": null,
+        "desc": "<p>This is based on the 1938 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "49099",
+        "link": "https://letterboxd.com/film/ten-little-indians-1987/",
+        "title": "Ten Little Indians",
+        "poster": "/film/ten-little-indians-1987/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1987",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel <b><i>And Then There Were None</i></b> (previously published under two other offensive titles, including the name of this film) by Agatha Christie.</p>"
+    },
+    {
+        "id": "48460",
+        "link": "https://letterboxd.com/film/murder-in-three-acts/",
+        "title": "Murder in Three Acts",
+        "poster": "/film/murder-in-three-acts/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1986",
+        "rating": null,
+        "desc": "<p>This is based on the 1934 novel <b><i>Three Act Tragedy</i></b> (published in the US under the title <b><i>Murder in Three Acts</i></b>) by Agatha Christie.</p>"
+    },
+    {
+        "id": "48462",
+        "link": "https://letterboxd.com/film/dead-mans-folly/",
+        "title": "Dead Man’s Folly",
+        "poster": "/film/dead-mans-folly/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1986",
+        "rating": null,
+        "desc": "<p>This is based on the 1956 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "48464",
+        "link": "https://letterboxd.com/film/thirteen-at-dinner/",
+        "title": "Thirteen at Dinner",
+        "poster": "/film/thirteen-at-dinner/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1985",
+        "rating": null,
+        "desc": "<p>This is based on the 1933 novel <b><i>Lord Edgware Dies</i></b> (published in the US under the title <b><i>Thirteen at Dinner</i></b>) by Agatha Christie.</p>"
+    },
+    {
+        "id": "48487",
+        "link": "https://letterboxd.com/film/murder-with-mirrors/",
+        "title": "Murder with Mirrors",
+        "poster": "/film/murder-with-mirrors/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1985",
+        "rating": null,
+        "desc": "<p>This is based on the 1952 novel <b><i>They Do It with Mirrors</i></b> (published in the US under the title <b><i>Murder with Mirrors</i></b>) by Agatha Christie.</p>"
+    },
+    {
+        "id": "87150",
+        "link": "https://letterboxd.com/film/ordeal-by-innocence/",
+        "title": "Ordeal by Innocence",
+        "poster": "/film/ordeal-by-innocence/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1984",
+        "rating": null,
+        "desc": "<p>This is based on the 1958 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "38597",
+        "link": "https://letterboxd.com/film/sparkling-cyanide/",
+        "title": "Sparkling Cyanide",
+        "poster": "/film/sparkling-cyanide/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1983",
+        "rating": null,
+        "desc": "<p>This is based on the 1945 novel of the same name (originally published under the title <b><i>Remembered Death</i></b>), which was an expansion of a 1937 short story \"Yellow Iris\", by Agatha Christie.</p>"
+    },
+    {
+        "id": "48488",
+        "link": "https://letterboxd.com/film/a-caribbean-mystery/",
+        "title": "A Caribbean Mystery",
+        "poster": "/film/a-caribbean-mystery/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1983",
+        "rating": null,
+        "desc": "<p>This is based on the 1964 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "48527",
+        "link": "https://letterboxd.com/film/witness-for-the-prosecution-1982/",
+        "title": "Witness for the Prosecution",
+        "poster": "/film/witness-for-the-prosecution-1982/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1982",
+        "rating": null,
+        "desc": "<p>This is based on the 1925 short story \"The Witness for the Prosecution\" (originally published as \"Traitor's Hands\") by Agatha Christie.</p>"
+    },
+    {
+        "id": "49475",
+        "link": "https://letterboxd.com/film/evil-under-the-sun/",
+        "title": "Evil Under the Sun",
+        "poster": "/film/evil-under-the-sun/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1982",
+        "rating": null,
+        "desc": "<p>This is based on the 1941 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "38599",
+        "link": "https://letterboxd.com/film/murder-is-easy/",
+        "title": "Murder Is Easy",
+        "poster": "/film/murder-is-easy/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1982",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel of the same name (published in the US under the title <b><i>Easy to Kill</i></b>) by Agatha Christie.</p>"
+    },
+    {
+        "id": "48490",
+        "link": "https://letterboxd.com/film/the-mirror-crackd/",
+        "title": "The Mirror Crack’d",
+        "poster": "/film/the-mirror-crackd/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1980",
+        "rating": null,
+        "desc": "<p>This is based on the 1962 novel <b><i>The Mirror Crack'd from Side to Side</i></b> (published in the US under the title <b><i>The Mirror Crack'd</i></b>) by Agatha Christie.</p>"
+    },
+    {
+        "id": "49101",
+        "link": "https://letterboxd.com/film/film:49101/",
+        "title": "And Then There Were None",
+        "poster": "/film/film:49101/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1974",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel of the same name (previously published under two other offensive titles) by Agatha Christie.</p>"
+    },
+    {
+        "id": "49105",
+        "link": "https://letterboxd.com/film/ten-little-indians/",
+        "title": "Ten Little Indians",
+        "poster": "/film/ten-little-indians/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1965",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel <b><i>And Then There Were None</i></b> (previously published under two other offensive titles, including the name of this film) by Agatha Christie.</p>"
+    },
+    {
+        "id": "753085",
+        "link": "https://letterboxd.com/film/ten-little-indians-1959/",
+        "title": "Ten Little Indians",
+        "poster": "/film/ten-little-indians-1959/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1959",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel <b><i>And Then There Were None</i></b> (previously published under two other offensive titles, including the name of this film) by Agatha Christie.</p>"
+    },
+    {
+        "id": "48526",
+        "link": "https://letterboxd.com/film/witness-for-the-prosecution/",
+        "title": "Witness for the Prosecution",
+        "poster": "/film/witness-for-the-prosecution/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1949",
+        "rating": null,
+        "desc": "<p>This is based on the 1925 short story \"The Witness for the Prosecution\" (originally published as \"Traitor's Hands\") by Agatha Christie.</p>"
+    },
+    {
+        "id": "49098",
+        "link": "https://letterboxd.com/film/and-then-there-were-none/",
+        "title": "And Then There Were None",
+        "poster": "/film/and-then-there-were-none/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1945",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel of the same name (previously published under two other offensive titles) by Agatha Christie.</p>"
+    },
+    {
+        "id": "30736",
+        "link": "https://letterboxd.com/film/jamaica-inn/",
+        "title": "Jamaica Inn",
+        "poster": "/film/jamaica-inn/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1939",
+        "rating": null,
+        "desc": "<p>This is based on the 1936 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "435252",
+        "link": "https://letterboxd.com/film/rebecca-2020/",
+        "title": "Rebecca",
+        "poster": "/film/rebecca-2020/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2020",
+        "rating": null,
+        "desc": "<p>This is based on the 1938 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "78430",
+        "link": "https://letterboxd.com/film/my-cousin-rachel/",
+        "title": "My Cousin Rachel",
+        "poster": "/film/my-cousin-rachel/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1952",
+        "rating": null,
+        "desc": "<p>This is based on the 1951 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "348027",
+        "link": "https://letterboxd.com/film/my-cousin-rachel-2017/",
+        "title": "My Cousin Rachel",
+        "poster": "/film/my-cousin-rachel-2017/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 1951 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "102083",
+        "link": "https://letterboxd.com/film/frenchmans-creek/",
+        "title": "Frenchman’s Creek",
+        "poster": "/film/frenchmans-creek/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1944",
+        "rating": null,
+        "desc": "<p>This is based on the 1941 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "144489",
+        "link": "https://letterboxd.com/film/frenchmans-creek-1998/",
+        "title": "Frenchman’s Creek",
+        "poster": "/film/frenchmans-creek-1998/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1998",
+        "rating": null,
+        "desc": "<p>This is based on the 1941 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "105343",
+        "link": "https://letterboxd.com/film/hungry-hill/",
+        "title": "Hungry Hill",
+        "poster": "/film/hungry-hill/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1947",
+        "rating": null,
+        "desc": "<p>This is based on the 1943 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "99167",
+        "link": "https://letterboxd.com/film/the-scapegoat/",
+        "title": "The Scapegoat",
+        "poster": "/film/the-scapegoat/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1959",
+        "rating": null,
+        "desc": "<p>This is based on the 1957 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "106621",
+        "link": "https://letterboxd.com/film/the-scapegoat-2012/",
+        "title": "The Scapegoat",
+        "poster": "/film/the-scapegoat-2012/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2012",
+        "rating": null,
+        "desc": "<p>This is based on the 1957 novel of the same name by Daphne du Maurier.</p>"
+    },
+    {
+        "id": "45652",
+        "link": "https://letterboxd.com/film/the-last-temptation-of-christ/",
+        "title": "The Last Temptation of Christ",
+        "poster": "/film/the-last-temptation-of-christ/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1988",
+        "rating": null,
+        "desc": "<p>This is based on the 1955 novel of the same name by Nikos Kazantzakis.</p>"
+    },
+    {
+        "id": "44683",
+        "link": "https://letterboxd.com/film/white-fang-1991/",
+        "title": "White Fang",
+        "poster": "/film/white-fang-1991/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1991",
+        "rating": null,
+        "desc": "<p>This is based on the 1906 novel of the same name by Jack London.</p>"
+    },
+    {
+        "id": "138230",
+        "link": "https://letterboxd.com/film/the-two-faces-of-january/",
+        "title": "The Two Faces of January",
+        "poster": "/film/the-two-faces-of-january/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is based on the 1964 novel of the same name by Patricia Highsmith.</p>"
+    },
+    {
+        "id": "51528",
+        "link": "https://letterboxd.com/film/solaris/",
+        "title": "Solaris",
+        "poster": "/film/solaris/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1972",
+        "rating": null,
+        "desc": "<p>This is based on the 1961 novel of the same name by Stanisław Lem.</p>"
+    },
+    {
+        "id": "50523",
+        "link": "https://letterboxd.com/film/solaris-2002/",
+        "title": "Solaris",
+        "poster": "/film/solaris-2002/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2002",
+        "rating": null,
+        "desc": "<p>This is based on the 1961 novel of the same name by Stanisław Lem.</p>"
+    },
+    {
+        "id": "248144",
+        "link": "https://letterboxd.com/film/solaris-1968/",
+        "title": "Solaris",
+        "poster": "/film/solaris-1968/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1968",
+        "rating": null,
+        "desc": "<p>This is based on the 1961 novel of the same name by Stanisław Lem.</p>"
+    },
+    {
+        "id": "36691",
+        "link": "https://letterboxd.com/film/slaughterhouse-five/",
+        "title": "Slaughterhouse-Five",
+        "poster": "/film/slaughterhouse-five/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1972",
+        "rating": null,
+        "desc": "<p>This is based on the 1969 novel <b><i>Slaughterhouse-Five, or, The Children's Crusade: A Duty-Dance with Death</i></b> by Kurt Vonnegut.</p>"
+    },
+    {
+        "id": "285399",
+        "link": "https://letterboxd.com/film/lady-chatterleys-lover-2015/",
+        "title": "Lady Chatterley’s Lover",
+        "poster": "/film/lady-chatterleys-lover-2015/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 1928 novel of the same name by D.H. Lawrence.</p>"
+    },
+    {
+        "id": "28486",
+        "link": "https://letterboxd.com/film/lady-chatterleys-lover/",
+        "title": "Lady Chatterley’s Lover",
+        "poster": "/film/lady-chatterleys-lover/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1981",
+        "rating": null,
+        "desc": "<p>This is based on the 1928 novel of the same name by D.H. Lawrence.</p>"
+    },
+    {
+        "id": "47280",
+        "link": "https://letterboxd.com/film/the-man-in-the-iron-mask-1998/",
+        "title": "The Man in the Iron Mask",
+        "poster": "/film/the-man-in-the-iron-mask-1998/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1998",
+        "rating": "7",
+        "desc": "<p>This is loosely based on some plot elements of the 1847-1850 novel <b><i>The Vicomte of Bragelonne: Ten Years Later</i></b> by Alexandre Dumas père.</p>"
+    },
+    {
+        "id": "37016",
+        "link": "https://letterboxd.com/film/the-black-cat/",
+        "title": "The Black Cat",
+        "poster": "/film/the-black-cat/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1934",
+        "rating": null,
+        "desc": "<p>This is inspired by the 1843 short story \"The Black Cat\" by Edgar Allan Poe, although the film has little to do with its plot.</p>"
+    },
+    {
+        "id": "47171",
+        "link": "https://letterboxd.com/film/the-fly-1986/",
+        "title": "The Fly",
+        "poster": "/film/the-fly-1986/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1986",
+        "rating": "8",
+        "desc": "<p>This is loosely based on the 1957 short story of the same name by George Langelaan.</p>"
+    },
+    {
+        "id": "46322",
+        "link": "https://letterboxd.com/film/moby-dick/",
+        "title": "Moby Dick",
+        "poster": "/film/moby-dick/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1956",
+        "rating": null,
+        "desc": "<p>This is based on the 1851 novel <b><i>Moby-Dick; or, The Whale</i></b> by Herman Melville.</p>"
+    },
+    {
+        "id": "46992",
+        "link": "https://letterboxd.com/film/of-mice-and-men-1992/",
+        "title": "Of Mice and Men",
+        "poster": "/film/of-mice-and-men-1992/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1992",
+        "rating": null,
+        "desc": "<p>This is based on the 1937 novella of the same name by John Steinbeck.</p>"
+    },
+    {
+        "id": "14034",
+        "link": "https://letterboxd.com/film/of-mice-and-men/",
+        "title": "Of Mice and Men",
+        "poster": "/film/of-mice-and-men/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1939",
+        "rating": null,
+        "desc": "<p>This is based on the 1937 novella of the same name by John Steinbeck.</p>"
+    },
+    {
+        "id": "46975",
+        "link": "https://letterboxd.com/film/red-sonja/",
+        "title": "Red Sonja",
+        "poster": "/film/red-sonja/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1985",
+        "rating": null,
+        "desc": "<p>This is based on the literary character Red Sonya of Rogatino, created by Robert E. Howard in 1934.</p>"
+    },
+    {
+        "id": "40750",
+        "link": "https://letterboxd.com/film/kull-the-conqueror/",
+        "title": "Kull the Conqueror",
+        "poster": "/film/kull-the-conqueror/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1997",
+        "rating": null,
+        "desc": "<p>This is based on the 1950 novel <b><i>The Hour of the Dragon</i></b> by Robert E. Howard</p><p>The protagonist of the novel is Conan the Barbarian; however, the film changes the main character to Kull of Atlantis.</p>"
+    },
+    {
+        "id": "46991",
+        "link": "https://letterboxd.com/film/conan-the-destroyer/",
+        "title": "Conan the Destroyer",
+        "poster": "/film/conan-the-destroyer/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1984",
+        "rating": null,
+        "desc": "<p>This is based on the literary character Conan the Barbarian, created by Robert E. Howard in 1932.</p>"
+    },
+    {
+        "id": "40751",
+        "link": "https://letterboxd.com/film/a-tale-of-two-cities/",
+        "title": "A Tale of Two Cities",
+        "poster": "/film/a-tale-of-two-cities/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1935",
+        "rating": null,
+        "desc": "<p>This is based on the 1859 novel of the same name by Charles Dickens.</p>"
+    },
+    {
+        "id": "49181",
+        "link": "https://letterboxd.com/film/a-tale-of-two-cities-1958/",
+        "title": "A Tale of Two Cities",
+        "poster": "/film/a-tale-of-two-cities-1958/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1958",
+        "rating": null,
+        "desc": "<p>This is based on the 1859 novel of the same name by Charles Dickens.</p>"
+    },
+    {
+        "id": "16342",
+        "link": "https://letterboxd.com/film/a-tale-of-two-cities-1980/",
+        "title": "A Tale of Two Cities",
+        "poster": "/film/a-tale-of-two-cities-1980/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1980",
+        "rating": null,
+        "desc": "<p>This is based on the 1859 novel of the same name by Charles Dickens.</p>"
+    },
+    {
+        "id": "32944",
+        "link": "https://letterboxd.com/film/nicholas-nickleby/",
+        "title": "Nicholas Nickleby",
+        "poster": "/film/nicholas-nickleby/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/2/9/4/4/32944-nicholas-nickleby-0-70-0-105-crop.jpg?v=3afe402075",
+        "year": "2002",
+        "rating": null,
+        "desc": "<p>This is based on the 1839 novel <b><i>The Life and Adventures of Nicholas Nickleby</i></b> by Charles Dickens.</p>"
+    },
+    {
+        "id": "69478",
+        "link": "https://letterboxd.com/film/the-life-and-adventures-of-nicholas-nickleby/",
+        "title": "The Life and Adventures of Nicholas Nickleby",
+        "poster": "/film/the-life-and-adventures-of-nicholas-nickleby/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/6/9/4/7/8/69478-the-life-and-adventures-of-nicholas-nickleby-0-70-0-105-crop.jpg?v=cc6a9a27ab",
+        "year": "1947",
+        "rating": null,
+        "desc": "<p>This is based on the 1839 novel <b><i>The Life and Adventures of Nicholas Nickleby</i></b> by Charles Dickens.</p>"
+    },
+    {
+        "id": "21258",
+        "link": "https://letterboxd.com/film/david-copperfield-1935/",
+        "title": "David Copperfield",
+        "poster": "/film/david-copperfield-1935/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/1/2/5/8/21258-david-copperfield-0-70-0-105-crop.jpg?v=befa2da066",
+        "year": "1935",
+        "rating": null,
+        "desc": "<p>This is based on the 1850 novel <b><i>The Personal History, Adventures, Experience and Observation of David Copperfield the Younger of Blunderstone Rookery (Which He Never Meant to Publish on Any Account)</i></b> by Charles Dickens.</p>"
+    },
+    {
+        "id": "45745",
+        "link": "https://letterboxd.com/film/oliver-twist-1948/",
+        "title": "Oliver Twist",
+        "poster": "/film/oliver-twist-1948/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/5/7/4/5/45745-oliver-twist-0-70-0-105-crop.jpg?v=d94ed818a7",
+        "year": "1948",
+        "rating": null,
+        "desc": "<p>This is based on the 1838 novel <b><i>Oliver Twist; or, the Parish Boy's Progress</i></b> by Charles Dickens.</p>"
+    },
+    {
+        "id": "51799",
+        "link": "https://letterboxd.com/film/oliver-twist-2005/",
+        "title": "Oliver Twist",
+        "poster": "/film/oliver-twist-2005/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/7/9/9/51799-oliver-twist-0-70-0-105-crop.jpg?v=8a5f357389",
+        "year": "2005",
+        "rating": null,
+        "desc": "<p>This is based on the 1838 novel <b><i>Oliver Twist; or, the Parish Boy's Progress</i></b> by Charles Dickens.</p>"
+    },
+    {
+        "id": "44678",
+        "link": "https://letterboxd.com/film/oliver-company/",
+        "title": "Oliver & Company",
+        "poster": "/film/oliver-company/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/9d/mi/ft/c7/CEVChyXysi733Owrkz4bOyQoyr-0-70-0-105-crop.jpg?v=3c97597fba",
+        "year": "1988",
+        "rating": "6",
+        "desc": "<p>This is loosely based on the 1838 novel <b><i>Oliver Twist; or, the Parish Boy's Progress</i></b> by Charles Dickens.</p>"
+    },
+    {
+        "id": "49662",
+        "link": "https://letterboxd.com/film/emma/",
+        "title": "Emma",
+        "poster": "/film/emma/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/9/6/6/2/49662-emma-0-70-0-105-crop.jpg?v=e233c18165",
+        "year": "1996",
+        "rating": null,
+        "desc": "<p>This is based on the 1815 novel of the same name by Jane Austen.</p>"
+    },
+    {
+        "id": "471202",
+        "link": "https://letterboxd.com/film/gretel-hansel/",
+        "title": "Gretel & Hansel",
+        "poster": "/film/gretel-hansel/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/fp/3p/le/83/65A3A4EC-45D3-4875-A27C-3550023D5BDB-0-70-0-105-crop.jpg?v=9926e46e32",
+        "year": "2020",
+        "rating": null,
+        "desc": "<p>This is based on the 1812 German folklore tale \"Hansel and Gretel\" by the Brothers Grimm.</p>"
+    },
+    {
+        "id": "48788",
+        "link": "https://letterboxd.com/film/donkey-skin/",
+        "title": "Donkey Skin",
+        "poster": "/film/donkey-skin/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/8/7/8/8/48788-donkey-skin-0-70-0-105-crop.jpg?v=99919e5e02",
+        "year": "1970",
+        "rating": null,
+        "desc": "<p>This is based on the 1695 literary fairytale <b><i>Donkeyskin</i></b> by Charles Perrault.</p>"
+    },
+    {
+        "id": "193167",
+        "link": "https://letterboxd.com/film/beauty-and-the-beast-1992-1/",
+        "title": "Beauty and the Beast",
+        "poster": "/film/beauty-and-the-beast-1992-1/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/9/3/1/6/7/193167-beauty-and-the-beast-0-70-0-105-crop.jpg?v=d40f0f790c",
+        "year": "1992",
+        "rating": null,
+        "desc": "<p>This is based on the 18th-century French fairy tale of the same name by Jeanne-Marie Leprince de Beaumont, itself adapted from a fairy tale written by French novelist Gabrielle-Suzanne Barbot de Villeneuve.</p>"
+    },
+    {
+        "id": "51340",
+        "link": "https://letterboxd.com/film/aladdin/",
+        "title": "Aladdin",
+        "poster": "/film/aladdin/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/n3/26/lb/e2/trm94WPjW5ApKulhFvuRm5cT8KQ-0-70-0-105-crop.jpg?v=7aa7423779",
+        "year": "1992",
+        "rating": "8",
+        "desc": "<p>This is based on the Middle-Eastern folk tale \"Aladdin and the Wonderful Lamp\" from <b><i>One Thousand and One Nights</i></b>.</p>"
+    },
+    {
+        "id": "7699",
+        "link": "https://letterboxd.com/film/snow-white-and-the-huntsman/",
+        "title": "Snow White and the Huntsman",
+        "poster": "/film/snow-white-and-the-huntsman/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/4k/nc/tl/52/snow-white-and-the-huntsman-0-70-0-105-crop.jpg?v=4ce43d9498",
+        "year": "2012",
+        "rating": "5",
+        "desc": "<p>This is based on the 1812 fairy tale \"Snow White\" by the Brothers Grimm.</p>"
+    },
+    {
+        "id": "47352",
+        "link": "https://letterboxd.com/film/snow-white-a-tale-of-terror/",
+        "title": "Snow White: A Tale of Terror",
+        "poster": "/film/snow-white-a-tale-of-terror/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/7/3/5/2/47352-snow-white-a-tale-of-terror-0-70-0-105-crop.jpg?v=297c576cd1",
+        "year": "1997",
+        "rating": null,
+        "desc": "<p>This is based on the 1812 fairy tale \"Snow White\" by the Brothers Grimm.</p>"
+    },
+    {
+        "id": "49899",
+        "link": "https://letterboxd.com/film/frankenstein-unbound/",
+        "title": "Frankenstein Unbound",
+        "poster": "/film/frankenstein-unbound/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/9/8/9/9/49899-frankenstein-unbound-0-70-0-105-crop.jpg?v=794c133283",
+        "year": "1990",
+        "rating": null,
+        "desc": "<p>This is based on the 1973 novel of the same name by Brian Aldiss.</p>"
+    },
+    {
+        "id": "49246",
+        "link": "https://letterboxd.com/film/the-story-of-o/",
+        "title": "The Story of O",
+        "poster": "/film/the-story-of-o/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/9/2/4/6/49246-the-story-of-o-0-70-0-105-crop.jpg?v=3fca33caf6",
+        "year": "1975",
+        "rating": null,
+        "desc": "<p>This is based on the 1954 novel <b><i>Story of O</i></b> by Pauline Réage (pen name of Anne Desclos).</p>"
+    },
+    {
+        "id": "29682",
+        "link": "https://letterboxd.com/film/the-decameron/",
+        "title": "The Decameron",
+        "poster": "/film/the-decameron/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/9/6/8/2/29682-the-decameron-0-70-0-105-crop.jpg?v=7b1649e0bb",
+        "year": "1971",
+        "rating": null,
+        "desc": "<p>This is based on the 14th-century book of the same name by Giovanni Boccaccio.</p>"
+    },
+    {
+        "id": "44854",
+        "link": "https://letterboxd.com/film/lifeforce/",
+        "title": "Lifeforce",
+        "poster": "/film/lifeforce/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/3x/jx/rz/sg/l9R0w3CzF2YCTZTlAZt1E3k2qNy-0-70-0-105-crop.jpg?v=3b131e8aba",
+        "year": "1985",
+        "rating": null,
+        "desc": "<p>This is based on the 1976 novel <b><i>The Space Vampires</i></b> by Colin Wilson.</p>"
+    },
+    {
+        "id": "477313",
+        "link": "https://letterboxd.com/film/color-out-of-space/",
+        "title": "Color Out of Space",
+        "poster": "/film/color-out-of-space/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/7/7/3/1/3/p/vIQA6yToFm8wiNaHE3eYWXr9gWl-0-70-0-105-crop.jpg?v=a06c0af532",
+        "year": "2019",
+        "rating": "7",
+        "desc": "<p>This is based on the 1927 short story \"The Colour Out of Space\" by H.P. Lovecraft.</p>"
+    },
+    {
+        "id": "955",
+        "link": "https://letterboxd.com/film/the-dunwich-horror/",
+        "title": "The Dunwich Horror",
+        "poster": "/film/the-dunwich-horror/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/9/5/5/955-the-dunwich-horror-0-70-0-105-crop.jpg?v=94d53506b9",
+        "year": "1970",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 1929 short story of the same name by H.P. Lovecraft.</p>"
+    },
+    {
+        "id": "48232",
+        "link": "https://letterboxd.com/film/death-in-venice/",
+        "title": "Death in Venice",
+        "poster": "/film/death-in-venice/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/8/2/3/2/48232-death-in-venice-0-70-0-105-crop.jpg?v=4f8937a19e",
+        "year": "1971",
+        "rating": null,
+        "desc": "<p>This is based on the 1912 novella of the same name by Thomas Mann.</p>"
+    },
+    {
+        "id": "50497",
+        "link": "https://letterboxd.com/film/the-time-machine-2002/",
+        "title": "The Time Machine",
+        "poster": "/film/the-time-machine-2002/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/0/4/9/7/50497-the-time-machine-0-70-0-105-crop.jpg?v=c3e84de273",
+        "year": "2002",
+        "rating": "6",
+        "desc": "<p>This is based on the 1895 novel of the same name by H.G. Wells.</p>"
+    }
+]

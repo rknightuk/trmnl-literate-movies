@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "117265",
+        "link": "https://letterboxd.com/film/cog/",
+        "title": "C.O.G.",
+        "poster": "/film/cog/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/1/7/2/6/5/117265-c-o-g--0-70-0-105-crop.jpg?v=239e258f29",
+        "year": "2013",
+        "rating": null,
+        "desc": "<p>This is based on the 1997 short story of the same name by David Sedaris from his book of collected essays, <b><i>Naked</i></b>.</p>"
+    },
+    {
+        "id": "69006",
+        "link": "https://letterboxd.com/film/texasville/",
+        "title": "Texasville",
+        "poster": "/film/texasville/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/6/9/0/0/6/69006-texasville-0-70-0-105-crop.jpg?v=340a6cf991",
+        "year": "1990",
+        "rating": null,
+        "desc": "<p>This is based on the 1987 novel of the same name by Larry McMurtry.</p>"
+    },
+    {
+        "id": "271869",
+        "link": "https://letterboxd.com/film/all-the-bright-places/",
+        "title": "All the Bright Places",
+        "poster": "/film/all-the-bright-places/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/7/1/8/6/9/271869-all-the-bright-places-0-70-0-105-crop.jpg?v=234f36e138",
+        "year": "2020",
+        "rating": null,
+        "desc": "<p>This is based on the 2015 novel of the same name by Jennifer Niven.</p>"
+    },
+    {
+        "id": "742625",
+        "link": "https://letterboxd.com/film/rosaline/",
+        "title": "Rosaline",
+        "poster": "/film/rosaline/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/7/4/2/6/2/5/742625-rosaline-0-70-0-105-crop.jpg?v=b0f92d8fe0",
+        "year": "2022",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novel <b><i>When You Were Mine</i></b> by Rebecca Serle.</p>"
+    },
+    {
+        "id": "35649",
+        "link": "https://letterboxd.com/film/angus/",
+        "title": "Angus",
+        "poster": "/film/angus/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/5/6/4/9/35649-angus-0-70-0-105-crop.jpg?v=72630cc499",
+        "year": "1995",
+        "rating": "6",
+        "desc": "<p>This is based on the 1989 short story \"A Brief Moment in the Life of Angus Bethune\" by Chris Crutcher.</p>"
+    },
+    {
+        "id": "41440",
+        "link": "https://letterboxd.com/film/woman-in-the-dunes/",
+        "title": "Woman in the Dunes",
+        "poster": "/film/woman-in-the-dunes/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/1/4/4/0/41440-woman-in-the-dunes-0-70-0-105-crop.jpg?v=e4bc8bd787",
+        "year": "1964",
+        "rating": null,
+        "desc": "<p>This is based on the 1962 novel <b><i>The Woman in the Dunes</i></b> by Kōbō Abe.</p>"
+    },
+    {
+        "id": "438692",
+        "link": "https://letterboxd.com/film/the-boy-and-the-heron/",
+        "title": "The Boy and the Heron",
+        "poster": "/film/the-boy-and-the-heron/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/9/2/438692-the-boy-and-the-heron-0-70-0-105-crop.jpg?v=521e114164",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 1937 novel of the same name by Genzaburo Yoshino.</p>"
+    },
+    {
+        "id": "42026",
+        "link": "https://letterboxd.com/film/the-sky-crawlers/",
+        "title": "The Sky Crawlers",
+        "poster": "/film/the-sky-crawlers/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/2/0/2/6/42026-the-sky-crawlers-0-70-0-105-crop.jpg?v=a8ec119027",
+        "year": "2008",
+        "rating": null,
+        "desc": "<p>This is based on the 2001 novel of the same name by MORI Hiroshi.</p>"
+    },
+    {
+        "id": "31177",
+        "link": "https://letterboxd.com/film/ivans-childhood/",
+        "title": "Ivan’s Childhood",
+        "poster": "/film/ivans-childhood/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/wm/nu/cy/pm/ivans-0-70-0-105-crop.jpg?v=0f5fe79fd4",
+        "year": "1962",
+        "rating": null,
+        "desc": "<p>This is based on the 1957 short story \"Ivan\" by Vladimir Bogomolov.</p>"
+    },
+    {
+        "id": "328065",
+        "link": "https://letterboxd.com/film/text-for-you/",
+        "title": "Text for You",
+        "poster": "/film/text-for-you/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/2/8/0/6/5/328065-text-for-you-0-70-0-105-crop.jpg?v=f67a0f1713",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2009 novel <b><i>SMS für Dich</i></b> by Sofie Cramer.</p>"
+    },
+    {
+        "id": "76903",
+        "link": "https://letterboxd.com/film/my-fathers-dragon-1997/",
+        "title": "My Father’s Dragon",
+        "poster": "/film/my-fathers-dragon-1997/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/7/6/9/0/3/76903-my-father-s-dragon-0-70-0-105-crop.jpg?v=58c00d893f",
+        "year": "1997",
+        "rating": null,
+        "desc": "<p>This is based on the 1948 children's novel of the same name by Ruth Stiles Gannett.</p>"
+    },
+    {
+        "id": "896378",
+        "link": "https://letterboxd.com/film/the-boy-the-mole-the-fox-and-the-horse/",
+        "title": "The Boy, the Mole, the Fox and the Horse",
+        "poster": "/film/the-boy-the-mole-the-fox-and-the-horse/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2022",
+        "rating": "8",
+        "desc": "<p>This is based on the 2019 novel of the same name by Charlie Mackesy.</p>"
+    },
+    {
+        "id": "873799",
+        "link": "https://letterboxd.com/film/my-year-of-dicks/",
+        "title": "My Year of Dicks",
+        "poster": "/film/my-year-of-dicks/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2022",
+        "rating": "8",
+        "desc": "<p>This is based on the 2014 memoir <b><i>Notes to Boys: And Other Things I Shouldn't Share in Public</i></b> by Pamela Ribon.</p>"
+    },
+    {
+        "id": "21352",
+        "link": "https://letterboxd.com/film/northwest-passage/",
+        "title": "Northwest Passage",
+        "poster": "/film/northwest-passage/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1940",
+        "rating": null,
+        "desc": "<p>This is based on the 1937 novel <b><i>Northwest Passage</i></b> by Kenneth Roberts.</p>"
+    },
+    {
+        "id": "33211",
+        "link": "https://letterboxd.com/film/mccabe-mrs-miller/",
+        "title": "McCabe & Mrs. Miller",
+        "poster": "/film/mccabe-mrs-miller/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1971",
+        "rating": null,
+        "desc": "<p>This is based on the 1959 novel <b><i>McCabe</i></b> by Edmund Naughton.</p>"
+    },
+    {
+        "id": "56306",
+        "link": "https://letterboxd.com/film/drums-along-the-mohawk/",
+        "title": "Drums Along the Mohawk",
+        "poster": "/film/drums-along-the-mohawk/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1939",
+        "rating": null,
+        "desc": "<p>This is based on a 1936 novel of the same name by Walter D. Edmonds.</p>"
+    },
+    {
+        "id": "41122",
+        "link": "https://letterboxd.com/film/the-set-up/",
+        "title": "The Set-Up",
+        "poster": "/film/the-set-up/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1949",
+        "rating": null,
+        "desc": "<p>This is based on the 1928 narrative poem of the same name by Joseph Moncure March.</p>"
+    },
+    {
+        "id": "27059",
+        "link": "https://letterboxd.com/film/warlock/",
+        "title": "Warlock",
+        "poster": "/film/warlock/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1959",
+        "rating": null,
+        "desc": "<p>This is based on the 1958 novel of the same name by Oakley Hall.</p>"
+    },
+    {
+        "id": "24213",
+        "link": "https://letterboxd.com/film/no-man-of-her-own-1950/",
+        "title": "No Man of Her Own",
+        "poster": "/film/no-man-of-her-own-1950/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1950",
+        "rating": null,
+        "desc": "<p>This is based on the 1948 novel <b><i>I Married a Dead Man</i></b> by Cornell Woolrich (under the pen name William Irish).</p>"
+    },
+    {
+        "id": "24879",
+        "link": "https://letterboxd.com/film/mrs-winterbourne/",
+        "title": "Mrs. Winterbourne",
+        "poster": "/film/mrs-winterbourne/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1996",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 1948 novel <b><i>I Married a Dead Man</i></b> by Cornell Woolrich (under the pen name William Irish).</p>"
+    },
+    {
+        "id": "45435",
+        "link": "https://letterboxd.com/film/the-howling/",
+        "title": "The Howling",
+        "poster": "/film/the-howling/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1981",
+        "rating": null,
+        "desc": "<p>This is based on the 1977 novel of the same name by Gary Brandner.</p>"
+    },
+    {
+        "id": "51096",
+        "link": "https://letterboxd.com/film/frida/",
+        "title": "Frida",
+        "poster": "/film/frida/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2002",
+        "rating": null,
+        "desc": "<p>This is based on the 1983 biography <b><i>Frida: A Biography of Frida Kahlo</i></b> by Hayden Herrera.</p>"
+    },
+    {
+        "id": "46453",
+        "link": "https://letterboxd.com/film/the-princess-and-the-frog/",
+        "title": "The Princess and the Frog",
+        "poster": "/film/the-princess-and-the-frog/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2009",
+        "rating": "7",
+        "desc": "<p>This is loosely based on the 2002 novel <b><i>The Frog Princess</i></b> by E.D. Baker, which in turn is based on the German folk tale \"The Frog Prince\" as collected by the Brothers Grimm.</p>"
+    },
+    {
+        "id": "18288",
+        "link": "https://letterboxd.com/film/the-extra-man/",
+        "title": "The Extra Man",
+        "poster": "/film/the-extra-man/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2010",
+        "rating": "6",
+        "desc": "<p>This is based on the 1998 novel of the same name by Jonathan Ames.</p>"
+    },
+    {
+        "id": "46175",
+        "link": "https://letterboxd.com/film/perfect-blue/",
+        "title": "Perfect Blue",
+        "poster": "/film/perfect-blue/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1997",
+        "rating": "8",
+        "desc": "<p>This is based on the 1991 novel <b><i>Perfect Blue: Complete Metamorphosis</i></b> (<b><i>パーフェクト・ブルー　完全変態</i></b>, <b><i>Pāfekuto Burū: Kanzen Hentai</i></b>) by Yoshikazu Takeuchi.</p>"
+    },
+    {
+        "id": "15138",
+        "link": "https://letterboxd.com/film/timestalkers/",
+        "title": "Timestalkers",
+        "poster": "/film/timestalkers/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1987",
+        "rating": "6",
+        "desc": "<p>This is based on the short story \"The Tintype\" by Ray Brown.</p>"
+    },
+    {
+        "id": "600020",
+        "link": "https://letterboxd.com/film/dark-harvest-2023/",
+        "title": "Dark Harvest",
+        "poster": "/film/dark-harvest-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 2006 novel of the same name by Norman Partridge.</p>"
+    },
+    {
+        "id": "437165",
+        "link": "https://letterboxd.com/film/the-killers-game/",
+        "title": "The Killer’s Game",
+        "poster": "/film/the-killers-game/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2024",
+        "rating": null,
+        "desc": "<p>This is based on the 1997 novel of the same name by Jay Bonansinga.</p>"
+    },
+    {
+        "id": "642249",
+        "link": "https://letterboxd.com/film/tarot-2024/",
+        "title": "Tarot",
+        "poster": "/film/tarot-2024/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2024",
+        "rating": null,
+        "desc": "<p>This is based on the 1992 novel <b><i>Horrorscope</i></b> by Nicholas Adams.</p>"
+    },
+    {
+        "id": "424350",
+        "link": "https://letterboxd.com/film/indrek/",
+        "title": "Indrek",
+        "poster": "/film/indrek/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1976",
+        "rating": null,
+        "desc": "<p>This is based on the 1929 novel <b><i>Tõde ja õigus II</i></b> (English: <b><i>Truth and Justice II</i></b>) by A.H. Tammsaare.</p>"
+    },
+    {
+        "id": "381144",
+        "link": "https://letterboxd.com/film/the-master-of-korboja/",
+        "title": "The Master of Kõrboja",
+        "poster": "/film/the-master-of-korboja/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1980",
+        "rating": null,
+        "desc": "<p>This is based on the 1922 novel <b><i>Kõrboja peremees</i></b> (English: <b><i>Tavern Host</i></b>) by A.H. Tammsaare.</p>"
+    },
+    {
+        "id": "343724",
+        "link": "https://letterboxd.com/film/the-new-devil-of-hellsbottom/",
+        "title": "The New Devil of Hellsbottom",
+        "poster": "/film/the-new-devil-of-hellsbottom/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1964",
+        "rating": null,
+        "desc": "<p>This is based on the 1939 novel <b><i>Põrgupõhja uus Vanapagan</i></b> by A.H. Tammsaare.</p>"
+    },
+    {
+        "id": "183538",
+        "link": "https://letterboxd.com/film/bumpy/",
+        "title": "Bumpy",
+        "poster": "/film/bumpy/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1981",
+        "rating": null,
+        "desc": "<p>This is based on the 1920 children's book <b><i>Nukitsamees</i></b> by Oskar Luts.</p>"
+    },
+    {
+        "id": "110684",
+        "link": "https://letterboxd.com/film/autumn-1990/",
+        "title": "Autumn",
+        "poster": "/film/autumn-1990/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1990",
+        "rating": null,
+        "desc": "<p>This is based on the 1988 novel <b><i>Sügis</i></b> by Oskar Luts.</p>"
+    },
+    {
+        "id": "110610",
+        "link": "https://letterboxd.com/film/summer-1976/",
+        "title": "Summer",
+        "poster": "/film/summer-1976/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1976",
+        "rating": null,
+        "desc": "<p>This is based on the 1918 novel <b><i>Suvi</i></b> by Oskar Luts.</p>"
+    },
+    {
+        "id": "18556",
+        "link": "https://letterboxd.com/film/spring/",
+        "title": "Spring",
+        "poster": "/film/spring/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1969",
+        "rating": null,
+        "desc": "<p>This is based on the 1912 novel <b><i>Kevade</i></b> by Oskar Luts.</p>"
+    },
+    {
+        "id": "54073",
+        "link": "https://letterboxd.com/film/pilot-pirxs-inquest/",
+        "title": "Pilot Pirx’s Inquest",
+        "poster": "/film/pilot-pirxs-inquest/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1979",
+        "rating": null,
+        "desc": "<p>This is based on the 1965 novel <b><i>Охота на Сэтавра</i></b> (English: <b><i>Tales of Pirx the Pilot</i></b>) by Stanisław Lem.</p>"
+    },
+    {
+        "id": "205115",
+        "link": "https://letterboxd.com/film/smile-at-last/",
+        "title": "Smile at Last",
+        "poster": "/film/smile-at-last/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1985",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 1963 short story \"Kasuema\" (AKA \"Stepmother\") by Silvia Rannamaa.</p>"
+    },
+    {
+        "id": "18232",
+        "link": "https://letterboxd.com/film/the-last-relic/",
+        "title": "The Last Relic",
+        "poster": "/film/the-last-relic/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1970",
+        "rating": null,
+        "desc": "<p>This is based on the 1893 novel <b><i>Vürst Gabriel ehk Pirita kloostri viimsed päevad</i></b> (English translation: <b><i>Prince Gabriel or The Last Days of Pirita Monastery</i></b>) by Eduard Bornhöhe.</p>"
+    },
+    {
+        "id": "18458",
+        "link": "https://letterboxd.com/film/dead-mountaineers-hotel/",
+        "title": "Dead Mountaineer’s Hotel",
+        "poster": "/film/dead-mountaineers-hotel/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1979",
+        "rating": null,
+        "desc": "<p>This is based on the 1970 novel <b><i>The Dead Mountaineer's Hotel</i></b> by Arkady and Boris Strugatsky.</p>"
+    },
+    {
+        "id": "867874",
+        "link": "https://letterboxd.com/film/melchior-the-apothecary-the-executioners-daughter/",
+        "title": "Melchior the Apothecary: The Executioner’s Daughter",
+        "poster": "/film/melchior-the-apothecary-the-executioners-daughter/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2022",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 novel <b><i>Apteeker Melchior ja timuka tütar</i></b> by Indrek Hargla.</p>"
+    },
+    {
+        "id": "867876",
+        "link": "https://letterboxd.com/film/melchior-the-apothecary-the-ghost/",
+        "title": "Melchior the Apothecary: The Ghost",
+        "poster": "/film/melchior-the-apothecary-the-ghost/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2022",
+        "rating": null,
+        "desc": "<p>This is based on the 2010 novel <b><i>Apteeker Melchior ja Rataskaevu viirastus</i></b> by Indrek Hargla.</p>"
+    },
+    {
+        "id": "841582",
+        "link": "https://letterboxd.com/film/melchior-the-apothecary/",
+        "title": "Melchior the Apothecary",
+        "poster": "/film/melchior-the-apothecary/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2022",
+        "rating": null,
+        "desc": "<p>This is based on the 2010 novel <b><i>Apteeker Melchior ja Oleviste mõistatus</i></b> by Indrek Hargla.</p>"
+    },
+    {
+        "id": "18476",
+        "link": "https://letterboxd.com/film/names-in-marble/",
+        "title": "Names in Marble",
+        "poster": "/film/names-in-marble/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2002",
+        "rating": null,
+        "desc": "<p>This is based on the 1936 novel <b><i>Nimed marmortahvlil</i></b> by Albert Kivikas.</p>"
+    },
+    {
+        "id": "444161",
+        "link": "https://letterboxd.com/film/the-little-comrade/",
+        "title": "The Little Comrade",
+        "poster": "/film/the-little-comrade/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2018",
+        "rating": null,
+        "desc": "<p>This is based on the 2008 novel <b><i>Seltsimees laps ja suured inimesed</i></b> (English title: <b><i>The Little Comrade</i></b>) and the 2009 novel <b><i>Samet ja saepuru ehk Seltsimees laps ja kirjatähed</i></b> (English title: <b><i>Velvet and Sawdust</i></b>) by Leelo Tungal.</p>"
+    },
+    {
+        "id": "511770",
+        "link": "https://letterboxd.com/film/truth-and-justice/",
+        "title": "Truth and Justice",
+        "poster": "/film/truth-and-justice/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2019",
+        "rating": null,
+        "desc": "<p>This is based on the 1926 novel <b><i>Tõde ja õigus I</i></b> (English title: <b><i>Truth and Justice</i></b>) by A.H. Tammsaare.</p>"
+    },
+    {
+        "id": "18514",
+        "link": "https://letterboxd.com/film/empty/",
+        "title": "Empty",
+        "poster": "/film/empty/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2006",
+        "rating": null,
+        "desc": "<p>This is based on the 1972 short story \"Tühirand\" (AKA \"An Empty Beach\") by Mati Unt.</p>"
+    },
+    {
+        "id": "370364",
+        "link": "https://letterboxd.com/film/november-2017/",
+        "title": "November",
+        "poster": "/film/november-2017/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2000 novel <b><i>Rehepapp ehk November</i></b> (English title: <b><i>Old Barny aka November</i></b>) by Andrus Kivirähk.</p>"
+    },
+    {
+        "id": "50942",
+        "link": "https://letterboxd.com/film/primal-fear/",
+        "title": "Primal Fear",
+        "poster": "/film/primal-fear/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1996",
+        "rating": null,
+        "desc": "<p>This is based on the 1993 novel of the same name by William Diehl.</p>"
+    },
+    {
+        "id": "46200",
+        "link": "https://letterboxd.com/film/come-sweet-death/",
+        "title": "Come, Sweet Death",
+        "poster": "/film/come-sweet-death/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2000",
+        "rating": null,
+        "desc": "<p>This is based on the 1998 novel <b><i>Komm, süßer Tod</i></b> by Wolf Haas.</p>"
+    },
+    {
+        "id": "47432",
+        "link": "https://letterboxd.com/film/silentium/",
+        "title": "Silentium",
+        "poster": "/film/silentium/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2004",
+        "rating": null,
+        "desc": "<p>This is based on the 1999 novel <b><i>Silentium!</i></b> by Wolf Haas.</p>"
+    },
+    {
+        "id": "38383",
+        "link": "https://letterboxd.com/film/the-bone-man/",
+        "title": "The Bone Man",
+        "poster": "/film/the-bone-man/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2009",
+        "rating": null,
+        "desc": "<p>This is based on the 1997 novel <b><i>Der Knochenmann</i></b> by Wolf Haas.</p>"
+    },
+    {
+        "id": "202065",
+        "link": "https://letterboxd.com/film/life-eternal/",
+        "title": "Life Eternal",
+        "poster": "/film/life-eternal/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2003 novel <b><i>Das ewige Leben</i></b> by Wolf Haas.</p>"
+    },
+    {
+        "id": "263219",
+        "link": "https://letterboxd.com/film/into-the-forest/",
+        "title": "Into the Forest",
+        "poster": "/film/into-the-forest/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 1996 novel of the same name by Jean Hegland.</p>"
+    },
+    {
+        "id": "74052",
+        "link": "https://letterboxd.com/film/perfect-blue-yume-nara-samete/",
+        "title": "Perfect Blue: Yume Nara Samete",
+        "poster": "/film/perfect-blue-yume-nara-samete/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2002",
+        "rating": null,
+        "desc": "<p>This is based on the 1991 novel <b><i>Perfect Blue: Complete Metamorphosis</i></b> (<b><i>パーフェクト・ブルー　完全変態</i></b>, <b><i>Pāfekuto Burū: Kanzen Hentai</i></b>) by Yoshikazu Takeuchi.</p>"
+    },
+    {
+        "id": "710073",
+        "link": "https://letterboxd.com/film/dumb-money/",
+        "title": "Dumb Money",
+        "poster": "/film/dumb-money/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 2021 non-fiction book <b><i>The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees</i></b> by Ben Mezrich.</p>"
+    },
+    {
+        "id": "926589",
+        "link": "https://letterboxd.com/film/nickel-boys/",
+        "title": "Nickel Boys",
+        "poster": "/film/nickel-boys/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2024",
+        "rating": null,
+        "desc": "<p>This is based on the 2019 novel of the same name by Colson Whitehead.</p>"
+    },
+    {
+        "id": "908327",
+        "link": "https://letterboxd.com/film/the-bikeriders/",
+        "title": "The Bikeriders",
+        "poster": "/film/the-bikeriders/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is inspired by the 1968 photo book of the same name by Danny Lyon.</p>"
+    },
+    {
+        "id": "919121",
+        "link": "https://letterboxd.com/film/priscilla/",
+        "title": "Priscilla",
+        "poster": "/film/priscilla/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 1985 memoir <b><i>Elvis and Me: The True Story of the Love Between Priscilla Presley and the King of Rock N' Roll</i></b> by Priscilla Beaulieu Presley.</p>"
+    },
+    {
+        "id": "430221",
+        "link": "https://letterboxd.com/film/aristotle-and-dante-discover-the-secrets-of-the-universe/",
+        "title": "Aristotle and Dante Discover the Secrets of the Universe",
+        "poster": "/film/aristotle-and-dante-discover-the-secrets-of-the-universe/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2022",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novel of the same name by Benjamin Alire Sáenz.</p>"
+    },
+    {
+        "id": "980914",
+        "link": "https://letterboxd.com/film/the-amateur-2025/",
+        "title": "The Amateur",
+        "poster": "/film/the-amateur-2025/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2025",
+        "rating": null,
+        "desc": "<p>This is based on the 1981 novel of the same name by Robert Littell.</p>"
+    },
+    {
+        "id": "589365",
+        "link": "https://letterboxd.com/film/eileen-2023/",
+        "title": "Eileen",
+        "poster": "/film/eileen-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 2015 novel of the same name by Ottessa Moshfegh.</p>"
+    },
+    {
+        "id": "739515",
+        "link": "https://letterboxd.com/film/the-boys-in-the-boat/",
+        "title": "The Boys in the Boat",
+        "poster": "/film/the-boys-in-the-boat/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 2013 non-fiction book <b><i>The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics</i></b> by Daniel James Brown.</p>"
+    },
+    {
+        "id": "301552",
+        "link": "https://letterboxd.com/film/ferrari-2023/",
+        "title": "Ferrari",
+        "poster": "/film/ferrari-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 1991 biography <b><i>Enzo Ferrari: The Man, The Cars, The Races, The Machine</i></b> by Brock Yates.</p>"
+    },
+    {
+        "id": "813840",
+        "link": "https://letterboxd.com/film/society-of-the-snow/",
+        "title": "Society of the Snow",
+        "poster": "/film/society-of-the-snow/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 2009 nonfiction book <b><i>Society of the Snow: The Definitive Account of the World’s Greatest Survival Story</i></b> by Pablo Vierci.</p>"
+    },
+    {
+        "id": "717921",
+        "link": "https://letterboxd.com/film/the-actor-2025/",
+        "title": "The Actor",
+        "poster": "/film/the-actor-2025/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2025",
+        "rating": null,
+        "desc": "<p>This is based on the 2010 novel <b><i>Memory</i></b> by Donald E. Westlake.</p>"
+    },
+    {
+        "id": "915230",
+        "link": "https://letterboxd.com/film/blackberry-2023/",
+        "title": "BlackBerry",
+        "poster": "/film/blackberry-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 2015 nonfiction book <b><i>Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry</i></b> by Jacquie McNish and Sean Silcoff.</p>"
+    },
+    {
+        "id": "762988",
+        "link": "https://letterboxd.com/film/firebrand-2023/",
+        "title": "Firebrand",
+        "poster": "/film/firebrand-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 2013 novel <b><i>Queen's Gambit</i></b> by Elizabeth Fremantle.</p>"
+    },
+    {
+        "id": "680437",
+        "link": "https://letterboxd.com/film/foe-2023/",
+        "title": "Foe",
+        "poster": "/film/foe-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 2018 novel of the same name by Iain Reid.</p>"
+    },
+    {
+        "id": "903258",
+        "link": "https://letterboxd.com/film/the-supremes-at-earls-all-you-can-eat/",
+        "title": "The Supremes at Earl’s All-You-Can-Eat",
+        "poster": "/film/the-supremes-at-earls-all-you-can-eat/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2024",
+        "rating": null,
+        "desc": "<p>This is based on the 2013 novel of the same name by Edward Kelsey Moore.</p>"
+    },
+    {
+        "id": "829364",
+        "link": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/",
+        "title": "The Wonderful Story of Henry Sugar",
+        "poster": "/film/the-wonderful-story-of-henry-sugar/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": "8",
+        "desc": "<p>This is based on the 1977 short story of the same name by Roald Dahl.</p>"
+    },
+    {
+        "id": "1059456",
+        "link": "https://letterboxd.com/film/the-swan-2023/",
+        "title": "The Swan",
+        "poster": "/film/the-swan-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": "8",
+        "desc": "<p>This is based on the 1977 short story of the same name by Roald Dahl.</p>"
+    },
+    {
+        "id": "1059457",
+        "link": "https://letterboxd.com/film/the-rat-catcher-2023/",
+        "title": "The Rat Catcher",
+        "poster": "/film/the-rat-catcher-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": "8",
+        "desc": "<p>This is based on the 1953 short story \"The Ratcatcher\" by Roald Dahl.</p>"
+    },
+    {
+        "id": "1059455",
+        "link": "https://letterboxd.com/film/poison-2023/",
+        "title": "Poison",
+        "poster": "/film/poison-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": "8",
+        "desc": "<p>This is based on the 1950 short story of the same name by Roald Dahl.</p>"
+    },
+    {
+        "id": "112956",
+        "link": "https://letterboxd.com/film/the-tale-of-the-princess-kaguya/",
+        "title": "The Tale of The Princess Kaguya",
+        "poster": "/film/the-tale-of-the-princess-kaguya/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2013",
+        "rating": "8",
+        "desc": "<p>This is based on the 10th-century monogatari <b><i>The Tale of the Bamboo Cutter</i></b> by an unknown author.</p>"
+    },
+    {
+        "id": "494450",
+        "link": "https://letterboxd.com/film/last-and-first-men/",
+        "title": "Last and First Men",
+        "poster": "/film/last-and-first-men/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2020",
+        "rating": null,
+        "desc": "<p>This is based on the 1930 novel of the same name by Olaf Stapledon.</p>"
+    },
+    {
+        "id": "63235",
+        "link": "https://letterboxd.com/film/the-flowers-of-war/",
+        "title": "The Flowers of War",
+        "poster": "/film/the-flowers-of-war/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2011",
+        "rating": null,
+        "desc": "<p>This is based on the 2007 novella <b><i>13 Flowers of Nanjing</i></b> by Geling Yan, which was inspired by the diaries of Minnie Vautrin.</p>"
+    },
+    {
+        "id": "43795",
+        "link": "https://letterboxd.com/film/burnt-offerings/",
+        "title": "Burnt Offerings",
+        "poster": "/film/burnt-offerings/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1976",
+        "rating": null,
+        "desc": "<p>This is based on the 1973 novel of the same name by Robert Marasco.</p>"
+    },
+    {
+        "id": "895290",
+        "link": "https://letterboxd.com/film/all-of-us-strangers/",
+        "title": "All of Us Strangers",
+        "poster": "/film/all-of-us-strangers/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 1987 novel <b><i>Strangers</i></b> by Taichi Yamada.</p>"
+    },
+    {
+        "id": "51198",
+        "link": "https://letterboxd.com/film/the-magnificent-ambersons/",
+        "title": "The Magnificent Ambersons",
+        "poster": "/film/the-magnificent-ambersons/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1942",
+        "rating": null,
+        "desc": "<p>This is based on the 1918 novel of the same name by Booth Tarkington.</p>"
+    },
+    {
+        "id": "21271",
+        "link": "https://letterboxd.com/film/alice-adams/",
+        "title": "Alice Adams",
+        "poster": "/film/alice-adams/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1935",
+        "rating": null,
+        "desc": "<p>This is based on the 1921 novel of the same name by Booth Tarkington.</p>"
+    },
+    {
+        "id": "21806",
+        "link": "https://letterboxd.com/film/donovans-brain/",
+        "title": "Donovan’s Brain",
+        "poster": "/film/donovans-brain/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1953",
+        "rating": null,
+        "desc": "<p>This is based on the 1942 novel of the same name by Curt Siodmak.</p>"
+    },
+    {
+        "id": "78564",
+        "link": "https://letterboxd.com/film/the-dragon-painter/",
+        "title": "The Dragon Painter",
+        "poster": "/film/the-dragon-painter/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1919",
+        "rating": null,
+        "desc": "<p>This is based on the 1906 novel of the same name by Mary McNeil Fenollosa.</p>"
+    },
+    {
+        "id": "22931",
+        "link": "https://letterboxd.com/film/querelle/",
+        "title": "Querelle",
+        "poster": "/film/querelle/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1982",
+        "rating": null,
+        "desc": "<p>This is based on the 1947 novel <b><i>Querelle of Brest</i></b> by Jean Genet.</p>"
+    },
+    {
+        "id": "998740",
+        "link": "https://letterboxd.com/film/1984-2023/",
+        "title": "1984",
+        "poster": "/film/1984-2023/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2023",
+        "rating": null,
+        "desc": "<p>This is based on the 1949 novel <b><i>Nineteen Eighty-Four</i></b> by George Orwell.</p>"
+    },
+    {
+        "id": "38989",
+        "link": "https://letterboxd.com/film/not-quite-human/",
+        "title": "Not Quite Human",
+        "poster": "/film/not-quite-human/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1987",
+        "rating": "6",
+        "desc": "<p>This is based on the 1985 book series of the same name by Seth McEvoy.</p>"
+    },
+    {
+        "id": "19981",
+        "link": "https://letterboxd.com/film/not-quite-human-ii/",
+        "title": "Not Quite Human II",
+        "poster": "/film/not-quite-human-ii/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1989",
+        "rating": "5",
+        "desc": "<p>This is based on the 1985 book series <b><i>Not Quite Human</i></b> by Seth McEvoy.</p>"
+    },
+    {
+        "id": "59269",
+        "link": "https://letterboxd.com/film/still-not-quite-human/",
+        "title": "Still Not Quite Human",
+        "poster": "/film/still-not-quite-human/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1992",
+        "rating": "5",
+        "desc": "<p>This is based on the 1985 book series <b><i>Not Quite Human</i></b> by Seth McEvoy.</p>"
+    },
+    {
+        "id": "45554",
+        "link": "https://letterboxd.com/film/national-lampoons-vacation/",
+        "title": "National Lampoon’s Vacation",
+        "poster": "/film/national-lampoons-vacation/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1983",
+        "rating": "7",
+        "desc": "<p>This is based on the 1979 short story \"Vacation '58\" by John Hughes.</p>"
+    },
+    {
+        "id": "48638",
+        "link": "https://letterboxd.com/film/national-lampoons-christmas-vacation/",
+        "title": "National Lampoon’s Christmas Vacation",
+        "poster": "/film/national-lampoons-christmas-vacation/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/4/8/6/3/8/p/b6rSaIAlybBJC4kAfOyK9HhJjma-0-70-0-105-crop.jpg?v=0189132a14",
+        "year": "1989",
+        "rating": "7",
+        "desc": "<p>This is based on the 1980 short story \"Christmas '59\" by John Hughes.</p>"
+    },
+    {
+        "id": "1058522",
+        "link": "https://letterboxd.com/film/lego-jurassic-park-the-unofficial-retelling/",
+        "title": "LEGO Jurassic Park: The Unofficial Retelling",
+        "poster": "/film/lego-jurassic-park-the-unofficial-retelling/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/5/2/2/1058522-lego-jurassic-park-the-unofficial-retelling-0-70-0-105-crop.jpg?v=7b26020419",
+        "year": "2023",
+        "rating": "6",
+        "desc": "<p>This is based on the 1990 novel <b><i>Jurassic Park</i></b> by Michael Crichton.</p>"
+    },
+    {
+        "id": "1006646",
+        "link": "https://letterboxd.com/film/the-shepherd-2023/",
+        "title": "The Shepherd",
+        "poster": "/film/the-shepherd-2023/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/0/0/6/6/4/6/1006646-the-shepherd-0-70-0-105-crop.jpg?v=85fe05b1be",
+        "year": "2023",
+        "rating": "6",
+        "desc": "<p>This is based on the 1975 novella of the same name by Frederick Forsyth.</p>"
+    },
+    {
+        "id": "715514",
+        "link": "https://letterboxd.com/film/family-switch/",
+        "title": "Family Switch",
+        "poster": "/film/family-switch/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/7/1/5/5/1/4/715514-family-switch-0-70-0-105-crop.jpg?v=2162863539",
+        "year": "2023",
+        "rating": "5",
+        "desc": "<p>This is based on the 2010 children's book <b><i>Bedtime for Mommy</i></b> by Amy Krouse Rosenthal.</p>"
+    },
+    {
+        "id": "51156",
+        "link": "https://letterboxd.com/film/the-thirteenth-floor/",
+        "title": "The Thirteenth Floor",
+        "poster": "/film/the-thirteenth-floor/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/5/1/1/5/6/p/BZCR9y5wRf9x1cAz8YRsPTlaOS-0-70-0-105-crop.jpg?v=dbf62c28fa",
+        "year": "1999",
+        "rating": "7",
+        "desc": "<p>This is loosely based on the 1964 novel <b><i>Simulacron-3</i></b> by Daniel F. Galouye.</p>"
+    },
+    {
+        "id": "717126",
+        "link": "https://letterboxd.com/film/the-ministry-of-ungentlemanly-warfare/",
+        "title": "The Ministry of Ungentlemanly Warfare",
+        "poster": "/film/the-ministry-of-ungentlemanly-warfare/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/alternative-poster/7/1/7/1/2/6/p/pmr56P9w9jiRvMdoLTCmQ4iEURH-0-70-0-105-crop.jpg?v=30fac1c3d9",
+        "year": "2024",
+        "rating": "7",
+        "desc": "<p>This is based on the 2014 nonfiction book <b><i>Churchill's Secret Warriors: The Explosive True Story of The Special Forces Desperadoes of WWII</i></b> by Damien Lewis.</p>"
+    },
+    {
+        "id": "22308",
+        "link": "https://letterboxd.com/film/kitten-with-a-whip/",
+        "title": "Kitten with a Whip",
+        "poster": "/film/kitten-with-a-whip/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/2/3/0/8/22308-kitten-with-a-whip-0-70-0-105-crop.jpg?v=fe3085592a",
+        "year": "1964",
+        "rating": null,
+        "desc": "<p>This is based on the 1959 novel of the same name by Wade Miller (pen name of authors Robert Allison “Bob” Wade and H. Bill Miller).</p>"
+    },
+    {
+        "id": "99399",
+        "link": "https://letterboxd.com/film/what-maisie-knew/",
+        "title": "What Maisie Knew",
+        "poster": "/film/what-maisie-knew/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/jj/kc/7m/z9/uZQCEVdOe29Y3NHcnQ571bUHw2Z-0-70-0-105-crop.jpg?v=5da1d4c1c3",
+        "year": "2012",
+        "rating": null,
+        "desc": "<p>This is based on the 1897 novel of the same name by Henry James.</p>"
+    },
+    {
+        "id": "42884",
+        "link": "https://letterboxd.com/film/ugetsu/",
+        "title": "Ugetsu",
+        "poster": "/film/ugetsu/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/2/8/8/4/42884-ugetsu-0-70-0-105-crop.jpg?v=f955526e53",
+        "year": "1953",
+        "rating": null,
+        "desc": "<p>This is based on two stories in the 1776 book <b><i>Ugetsu Monogatari</i></b> by Ueda Akinari.</p>"
+    },
+    {
+        "id": "43370",
+        "link": "https://letterboxd.com/film/the-girl-who-leapt-through-time/",
+        "title": "The Girl Who Leapt Through Time",
+        "poster": "/film/the-girl-who-leapt-through-time/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/3/3/7/0/43370-the-girl-who-leapt-through-time-0-70-0-105-crop.jpg?v=d3c82f50ec",
+        "year": "2006",
+        "rating": null,
+        "desc": "<p>This is based on the 1967 novel of the same name by Yasutaka Tsutsui, functioning as a loose sequel to the novel.</p>"
+    },
+    {
+        "id": "269439",
+        "link": "https://letterboxd.com/film/the-girl-who-leapt-through-time-1997/",
+        "title": "The Girl Who Leapt Through Time",
+        "poster": "/film/the-girl-who-leapt-through-time-1997/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/6/9/4/3/9/269439-the-girl-who-leapt-through-time-0-70-0-105-crop.jpg?v=486dadacc8",
+        "year": "1997",
+        "rating": null,
+        "desc": "<p>This is based on the 1967 novel of the same name by Yasutaka Tsutsui.</p>"
+    }
+]

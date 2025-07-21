@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "linkedom": "^0.18.11"
+  },
+  "type": "module"
+}

@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "27726",
+        "link": "https://letterboxd.com/film/the-good-earth/",
+        "title": "The Good Earth",
+        "poster": "/film/the-good-earth/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/7/7/2/6/27726-the-good-earth-0-70-0-105-crop.jpg?v=e540515759",
+        "year": "1937",
+        "rating": null,
+        "desc": "<p>This is based on the 1931 novel of the same name by Pearl S. Buck.</p>"
+    },
+    {
+        "id": "819",
+        "link": "https://letterboxd.com/film/women-in-love/",
+        "title": "Women in Love",
+        "poster": "/film/women-in-love/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/8/1/9/819-women-in-love-0-70-0-105-crop.jpg?v=afcb188ae2",
+        "year": "1969",
+        "rating": null,
+        "desc": "<p>This is based on the 1920 novel of the same name by D.H. Lawrence.</p>"
+    },
+    {
+        "id": "51245",
+        "link": "https://letterboxd.com/film/doctor-zhivago/",
+        "title": "Doctor Zhivago",
+        "poster": "/film/doctor-zhivago/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/2/4/5/51245-doctor-zhivago-0-70-0-105-crop.jpg?v=dd4ad228aa",
+        "year": "1965",
+        "rating": null,
+        "desc": "<p>This is based on the 1957 novel of the same name by Boris Pasternak.</p>"
+    },
+    {
+        "id": "51326",
+        "link": "https://letterboxd.com/film/the-bridge-on-the-river-kwai/",
+        "title": "The Bridge on the River Kwai",
+        "poster": "/film/the-bridge-on-the-river-kwai/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/6/51326-the-bridge-on-the-river-kwai-0-70-0-105-crop.jpg?v=03b905226d",
+        "year": "1957",
+        "rating": null,
+        "desc": "<p>This is based on the 1952 novel <b><i>The Bridge Over the River Kwai</i></b> (original French title: <b><i>Le Pont de la Rivière Kwaï</i></b>) by Pierre Boulle.</p>"
+    },
+    {
+        "id": "67079",
+        "link": "https://letterboxd.com/film/they-wont-forget/",
+        "title": "They Won’t Forget",
+        "poster": "/film/they-wont-forget/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/6/7/0/7/9/67079-they-won-t-forget-0-70-0-105-crop.jpg?v=77fe4947c2",
+        "year": "1937",
+        "rating": null,
+        "desc": "<p>This is based on the 1936 novel <b><i>Death in the Deep South</i></b> by Ward Greene.</p>"
+    },
+    {
+        "id": "31879",
+        "link": "https://letterboxd.com/film/conquest/",
+        "title": "Conquest",
+        "poster": "/film/conquest/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/1/8/7/9/31879-conquest-0-70-0-105-crop.jpg?v=8a1d3f7ba4",
+        "year": "1937",
+        "rating": null,
+        "desc": "<p>This is based on the 1933 novel <b><i>Pani Walewska</i></b> by Wacław Gąsiorowski.</p>"
+    },
+    {
+        "id": "51252",
+        "link": "https://letterboxd.com/film/bringing-up-baby/",
+        "title": "Bringing Up Baby",
+        "poster": "/film/bringing-up-baby/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/2/5/2/51252-bringing-up-baby-0-70-0-105-crop.jpg?v=49cd33e837",
+        "year": "1938",
+        "rating": null,
+        "desc": "<p>This is based on the 1937 short story of the same name by Hagar Wilde.</p>"
+    },
+    {
+        "id": "51682",
+        "link": "https://letterboxd.com/film/snow-white-and-the-seven-dwarfs/",
+        "title": "Snow White and the Seven Dwarfs",
+        "poster": "/film/snow-white-and-the-seven-dwarfs/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/2/51682-snow-white-and-the-seven-dwarfs-0-70-0-105-crop.jpg?v=93d2681131",
+        "year": "1937",
+        "rating": "7",
+        "desc": "<p>This is based on the 1812 fairy tale \"Snow White\" by the Brothers Grimm.</p>"
+    },
+    {
+        "id": "45485",
+        "link": "https://letterboxd.com/film/cinderella/",
+        "title": "Cinderella",
+        "poster": "/film/cinderella/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/v2/rx/es/za/2wlK3RvdWK3zcyDYd5lUB5r4XMe-0-70-0-105-crop.jpg?v=5e0bf1e2f8",
+        "year": "1950",
+        "rating": "7",
+        "desc": "<p>This is based on the 1697 fairy tale of the same name by Charles Perrault.</p>"
+    },
+    {
+        "id": "113380",
+        "link": "https://letterboxd.com/film/cinderella-2015/",
+        "title": "Cinderella",
+        "poster": "/film/cinderella-2015/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/1/3/3/8/0/113380-cinderella-0-70-0-105-crop.jpg?v=744473316c",
+        "year": "2015",
+        "rating": "7",
+        "desc": "<p>This is based on the 1697 fairy tale of the same name by Charles Perrault.</p>"
+    },
+    {
+        "id": "88254",
+        "link": "https://letterboxd.com/film/three-comrades/",
+        "title": "Three Comrades",
+        "poster": "/film/three-comrades/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/8/8/2/5/4/88254-three-comrades-0-70-0-105-crop.jpg?v=e9f37a37b4",
+        "year": "1938",
+        "rating": null,
+        "desc": "<p>This is based on the 1936 novel of the same name by Erich Maria Remarque.</p>"
+    },
+    {
+        "id": "81228",
+        "link": "https://letterboxd.com/film/the-shopworn-angel/",
+        "title": "The Shopworn Angel",
+        "poster": "/film/the-shopworn-angel/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/8/1/2/2/8/81228-the-shopworn-angel-0-70-0-105-crop.jpg?v=0e24f66f59",
+        "year": "1938",
+        "rating": null,
+        "desc": "<p>This is based on the 1918 short story \"Private Pettigrew's Girl\" by Dana Burnet.</p>"
+    },
+    {
+        "id": "20287",
+        "link": "https://letterboxd.com/film/the-old-maid/",
+        "title": "The Old Maid",
+        "poster": "/film/the-old-maid/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/0/2/8/7/20287-the-old-maid-0-70-0-105-crop.jpg?v=af3f0efa11",
+        "year": "1939",
+        "rating": null,
+        "desc": "<p>This is based on the 1924 novella <b><i>The Old Maid: The 'Fifties</i></b> by Edith Wharton.</p>"
+    },
+    {
+        "id": "91506",
+        "link": "https://letterboxd.com/film/the-rains-came/",
+        "title": "The Rains Came",
+        "poster": "/film/the-rains-came/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/9/1/5/0/6/91506-the-rains-came-0-70-0-105-crop.jpg?v=ddf08ab0cf",
+        "year": "1939",
+        "rating": null,
+        "desc": "<p>This is based on the 1937 novel of the same name by Louis Bromfield.</p>"
+    },
+    {
+        "id": "248708",
+        "link": "https://letterboxd.com/film/beauty-and-the-beast-2017/",
+        "title": "Beauty and the Beast",
+        "poster": "/film/beauty-and-the-beast-2017/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/4/8/7/0/8/248708-beauty-and-the-beast-0-70-0-105-crop.jpg?v=998630b3dc",
+        "year": "2017",
+        "rating": "8",
+        "desc": "<p>This is based on the 18th-century French fairy tale of the same name by Jeanne-Marie Leprince de Beaumont, itself adapted from a fairy tale written by French novelist Gabrielle-Suzanne Barbot de Villeneuve.</p>"
+    },
+    {
+        "id": "316312",
+        "link": "https://letterboxd.com/film/hidden-figures/",
+        "title": "Hidden Figures",
+        "poster": "/film/hidden-figures/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/2/316312-hidden-figures-0-70-0-105-crop.jpg?v=d40f6cc31a",
+        "year": "2016",
+        "rating": "8",
+        "desc": "<p>This is loosely based on the 2016 non-fiction book <b><i>Hidden Figures: The American Dream and the Untold Story of the Black Women Who Helped Win the Space Race</i></b> by Margot Lee Shetterly.</p>"
+    },
+    {
+        "id": "181943",
+        "link": "https://letterboxd.com/film/a-monster-calls/",
+        "title": "A Monster Calls",
+        "poster": "/film/a-monster-calls/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/8/1/9/4/3/181943-a-monster-calls-0-70-0-105-crop.jpg?v=79681f0d00",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 novel of the same name by Patrick Ness, from an original idea by Siobhan Dowd.</p>"
+    },
+    {
+        "id": "218738",
+        "link": "https://letterboxd.com/film/the-bye-bye-man/",
+        "title": "The Bye Bye Man",
+        "poster": "/film/the-bye-bye-man/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/r2/54/1p/r4/oFABJKt0zoyUPFV7kjIQrd8J8DI-0-70-0-105-crop.jpg?v=65237fba90",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the chapter \"The Bridge to Body Island\" in the 2005 book <b><i>The President's Vampire: Strange-but-True Tales of the United States of America</i></b> by Robert Damon Schneck.</p>"
+    },
+    {
+        "id": "183257",
+        "link": "https://letterboxd.com/film/live-by-night/",
+        "title": "Live by Night",
+        "poster": "/film/live-by-night/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/z2/sw/ii/77/7kxSjMrjJIXqgFMAT4CvKF5nnF6-0-70-0-105-crop.jpg?v=53e00898b9",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novel of the same name by Dennis Lehane.</p>"
+    },
+    {
+        "id": "323045",
+        "link": "https://letterboxd.com/film/patriots-day/",
+        "title": "Patriots Day",
+        "poster": "/film/patriots-day/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/2/3/0/4/5/323045-patriots-day-0-70-0-105-crop.jpg?v=4be0d70577",
+        "year": "2016",
+        "rating": "8",
+        "desc": "<p>This is based on the 2015 non-fiction book <b><i>Boston Strong: A City's Triumph Over Tragedy</i></b> by Casey Sherman and Dave Wedge.</p>"
+    },
+    {
+        "id": "52504",
+        "link": "https://letterboxd.com/film/silence/",
+        "title": "Silence",
+        "poster": "/film/silence/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/2/5/0/4/52504-silence-0-70-0-105-crop.jpg?v=b1740fd4a3",
+        "year": "2016",
+        "rating": "8",
+        "desc": "<p>This is based on the 1966 novel of the same name by Shūsaku Endō.</p>"
+    },
+    {
+        "id": "316316",
+        "link": "https://letterboxd.com/film/a-dogs-purpose/",
+        "title": "A Dog’s Purpose",
+        "poster": "/film/a-dogs-purpose/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/6/316316-a-dog-s-purpose-0-70-0-105-crop.jpg?v=c9967d8b9a",
+        "year": "2017",
+        "rating": "7",
+        "desc": "<p>This is based on the 2010 novel of the same name by W. Bruce Cameron.</p>"
+    },
+    {
+        "id": "332126",
+        "link": "https://letterboxd.com/film/before-i-fall/",
+        "title": "Before I Fall",
+        "poster": "/film/before-i-fall/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/3/2/1/2/6/332126-before-i-fall-0-70-0-105-crop.jpg?v=cc0f48c685",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2010 novel of the same name by Lauren Oliver.</p>"
+    },
+    {
+        "id": "276289",
+        "link": "https://letterboxd.com/film/the-shack/",
+        "title": "The Shack",
+        "poster": "/film/the-shack/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/7/6/2/8/9/276289-the-shack-0-70-0-105-crop.jpg?v=6226fbd89b",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2007 novel of the same name by William P. Young.</p>"
+    },
+    {
+        "id": "223050",
+        "link": "https://letterboxd.com/film/the-boss-baby/",
+        "title": "The Boss Baby",
+        "poster": "/film/the-boss-baby/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/2/3/0/5/0/223050-the-boss-baby-0-70-0-105-crop.jpg?v=1414f46e83",
+        "year": "2017",
+        "rating": "6",
+        "desc": "<p>This is based on the 2010 picture book of the same name by Marla Frazee.</p>"
+    },
+    {
+        "id": "215166",
+        "link": "https://letterboxd.com/film/the-zookeepers-wife/",
+        "title": "The Zookeeper’s Wife",
+        "poster": "/film/the-zookeepers-wife/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/1/5/1/6/6/215166-the-zookeeper-s-wife-0-70-0-105-crop.jpg?v=4829ed5b33",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2007 non-fiction book of the same name by Diane Ackerman.</p>"
+    },
+    {
+        "id": "358381",
+        "link": "https://letterboxd.com/film/the-case-for-christ-2017/",
+        "title": "The Case for Christ",
+        "poster": "/film/the-case-for-christ-2017/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/5/8/3/8/1/358381-the-case-for-christ-0-70-0-105-crop.jpg?v=8e404a9d87",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 1998 book of the same name by Lee Strobel.</p>"
+    },
+    {
+        "id": "269475",
+        "link": "https://letterboxd.com/film/the-circle-2017/",
+        "title": "The Circle",
+        "poster": "/film/the-circle-2017/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/6/9/4/7/5/269475-the-circle-0-70-0-105-crop.jpg?v=14b2880b05",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2013 novel of the same name by Dave Eggers.</p>"
+    },
+    {
+        "id": "351726",
+        "link": "https://letterboxd.com/film/diary-of-a-wimpy-kid-the-long-haul/",
+        "title": "Diary of a Wimpy Kid: The Long Haul",
+        "poster": "/film/diary-of-a-wimpy-kid-the-long-haul/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/5/1/7/2/6/351726-diary-of-a-wimpy-kid-the-long-haul-0-70-0-105-crop.jpg?v=559bcfe4b1",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the ninth and tenth books in the series, <b><i>Diary of a Wimpy Kid: The Long Haul</i></b> (2014) and <b><i>Diary of a Wimpy Kid: Old School</i></b> (2015), and one element each based on the seventh and eighth books, <b><i>Diary of a Wimpy Kid: The Third Wheel</i></b> (2012) and <b><i>Diary of a Wimpy Kid: Hard Luck</i></b> (2013) by Jeff Kinney.</p>"
+    },
+    {
+        "id": "351547",
+        "link": "https://letterboxd.com/film/everything-everything/",
+        "title": "Everything, Everything",
+        "poster": "/film/everything-everything/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/5/1/5/4/7/351547-everything-everything-0-70-0-105-crop.jpg?v=f567050a37",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2015 novel of the same name by Nicola Yoon.</p>"
+    },
+    {
+        "id": "191822",
+        "link": "https://letterboxd.com/film/captain-underpants-the-first-epic-movie/",
+        "title": "Captain Underpants: The First Epic Movie",
+        "poster": "/film/captain-underpants-the-first-epic-movie/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/9/1/8/2/2/191822-captain-underpants-the-first-epic-movie-0-70-0-105-crop.jpg?v=16cbcac7e0",
+        "year": "2017",
+        "rating": "7",
+        "desc": "<p>This is based on the children's novel series <b><i>Captain Underpants</i></b> by Dav Pilkey, first published in 1997.</p>"
+    },
+    {
+        "id": "216540",
+        "link": "https://letterboxd.com/film/the-mountain-between-us/",
+        "title": "The Mountain Between Us",
+        "poster": "/film/the-mountain-between-us/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 novel of the same name by Charles Martin.</p>"
+    },
+    {
+        "id": "227802",
+        "link": "https://letterboxd.com/film/same-kind-of-different-as-me/",
+        "title": "Same Kind of Different as Me",
+        "poster": "/film/same-kind-of-different-as-me/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2006 non-fiction book <b><i>Same Kind of Different As Me: A Modern-Day Slave, an International Art Dealer, and the Unlikely Woman Who Bound Them Together</i></b> by Ron Hall, Denver Moore, and Lynn Vincent.</p>"
+    },
+    {
+        "id": "358382",
+        "link": "https://letterboxd.com/film/the-war-with-grandpa/",
+        "title": "The War with Grandpa",
+        "poster": "/film/the-war-with-grandpa/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/5/8/3/8/2/358382-the-war-with-grandpa-0-70-0-105-crop.jpg?v=97570f9102",
+        "year": "2020",
+        "rating": "5",
+        "desc": "<p>This is based on the 1984 novel of the same name by Robert Kimmel Smith.</p>"
+    },
+    {
+        "id": "336668",
+        "link": "https://letterboxd.com/film/red-sparrow/",
+        "title": "Red Sparrow",
+        "poster": "/film/red-sparrow/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/3/6/6/6/8/336668-red-sparrow-0-70-0-105-crop.jpg?v=19b9460255",
+        "year": "2018",
+        "rating": "6",
+        "desc": "<p>This is based on the 2013 novel of the same name by Jason Matthews.</p>"
+    },
+    {
+        "id": "341440",
+        "link": "https://letterboxd.com/film/wonder-2017/",
+        "title": "Wonder",
+        "poster": "/film/wonder-2017/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/4/1/4/4/0/341440-wonder-0-70-0-105-crop.jpg?v=a73db5a6e9",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novel of the same name by R.J. Palacio.</p>"
+    },
+    {
+        "id": "326477",
+        "link": "https://letterboxd.com/film/murder-on-the-orient-express-2017/",
+        "title": "Murder on the Orient Express",
+        "poster": "/film/murder-on-the-orient-express-2017/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/x3/oo/kp/41/iBlfxlw8qwtUS0R8YjIU7JtM6LM-0-70-0-105-crop.jpg?v=3e7799436b",
+        "year": "2017",
+        "rating": "7",
+        "desc": "<p>This is based on the 1934 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "300646",
+        "link": "https://letterboxd.com/film/ferdinand/",
+        "title": "Ferdinand",
+        "poster": "/film/ferdinand/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/5n/vz/ad/bk/qfuoOaCJLwNngfboYM7uxYaZvQx-0-70-0-105-crop.jpg?v=df14b11770",
+        "year": "2017",
+        "rating": null,
+        "desc": "<p>This is based on the 1936 children's book <b><i>The Story of Ferdinand</i></b> by Munro Leaf and Robert Lawson.</p>"
+    },
+    {
+        "id": "227789",
+        "link": "https://letterboxd.com/film/the-finest-hours-2016/",
+        "title": "The Finest Hours",
+        "poster": "/film/the-finest-hours-2016/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/au/e7/ms/16/hA6Q8pXx8KHw1y3ZgcUkNqGceIn-0-70-0-105-crop.jpg?v=ccdf7c5f3a",
+        "year": "2016",
+        "rating": "7",
+        "desc": "<p>This is based on the 2007 non-fiction book <b><i>The Finest Hours: The True Story of the U.S. Coast Guard's Most Daring Sea Rescue</i></b> by Michael J. Tougias and Casey Sherman.</p>"
+    },
+    {
+        "id": "203879",
+        "link": "https://letterboxd.com/film/whiskey-tango-foxtrot/",
+        "title": "Whiskey Tango Foxtrot",
+        "poster": "/film/whiskey-tango-foxtrot/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/0/3/8/7/9/203879-whiskey-tango-foxtrot-0-70-0-105-crop.jpg?v=3447e44b18",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 memoir <b><i>The Taliban Shuffle: Strange Days in Afghanistan and Pakistan</i></b> by Kim Barker.</p>"
+    },
+    {
+        "id": "269473",
+        "link": "https://letterboxd.com/film/miracles-from-heaven/",
+        "title": "Miracles from Heaven",
+        "poster": "/film/miracles-from-heaven/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/6/9/4/7/3/269473-miracles-from-heaven-0-70-0-105-crop.jpg?v=394e3e83ee",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2015 memoir <b><i>Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing </i></b> by Christy Beam.</p>"
+    },
+    {
+        "id": "225063",
+        "link": "https://letterboxd.com/film/i-saw-the-light/",
+        "title": "I Saw the Light",
+        "poster": "/film/i-saw-the-light/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/2/5/0/6/3/225063-i-saw-the-light-0-70-0-105-crop.jpg?v=81e4e02a97",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 1994 book <b><i>Hank Williams: The Biography</i></b> by Colin Escott, George Merritt, and William MacEwen</p>"
+    },
+    {
+        "id": "243057",
+        "link": "https://letterboxd.com/film/mike-and-dave-need-wedding-dates/",
+        "title": "Mike and Dave Need Wedding Dates",
+        "poster": "/film/mike-and-dave-need-wedding-dates/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/0f/hb/kn/x0/3DwSh0AsBxPUxQ9x4yDuRNoYOW7-0-70-0-105-crop.jpg?v=753618f71a",
+        "year": "2016",
+        "rating": "6",
+        "desc": "<p>This is based on the 2014 book <b><i>Mike and Dave Need Wedding Dates: And a Thousand Cocktails</i></b> by Mike Stangle and Dave Stangle.</p>"
+    },
+    {
+        "id": "253072",
+        "link": "https://letterboxd.com/film/the-infiltrator-2016/",
+        "title": "The Infiltrator",
+        "poster": "/film/the-infiltrator-2016/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/5/3/0/7/2/253072-the-infiltrator-0-70-0-105-crop.jpg?v=01ced92fcf",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2009 autobiography <b><i>The Infiltrator: My Secret Life Inside the Dirty Banks Behind Pablo Escobar's Medellín Cartel</i></b> by Robert Mazur.</p>"
+    },
+    {
+        "id": "221248",
+        "link": "https://letterboxd.com/film/petes-dragon-2016/",
+        "title": "Pete’s Dragon",
+        "poster": "/film/petes-dragon-2016/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/2/1/2/4/8/221248-pete-s-dragon-0-70-0-105-crop.jpg?v=2282b43190",
+        "year": "2016",
+        "rating": "7",
+        "desc": "<p>This is based on an unpublished short story \"Pete's Dragon and the U.S.A. (Forever After)\" by Seton I. Miller and S.S. Field.</p>"
+    },
+    {
+        "id": "195288",
+        "link": "https://letterboxd.com/film/ben-hur-2016/",
+        "title": "Ben-Hur",
+        "poster": "/film/ben-hur-2016/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/9/5/2/8/8/195288-ben-hur-0-70-0-105-crop.jpg?v=52a54a64ae",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 1880 novel <b><i>Ben-Hur: A Tale of the Christ</i></b> by Lew Wallace.</p>"
+    },
+    {
+        "id": "235388",
+        "link": "https://letterboxd.com/film/war-dogs-2016/",
+        "title": "War Dogs",
+        "poster": "/film/war-dogs-2016/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/7b/d2/2z/ef/aqhAqttDq7zgsTaBHtCD8wmTk6k-0-70-0-105-crop.jpg?v=b1d4ca3acb",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2015 non-fiction book <b><i>Arms and the Dudes: How Three Stoners from Miami Beach Became the Most Unlikely Gunrunners in History</i></b> by Guy Lawson.</p>"
+    },
+    {
+        "id": "133425",
+        "link": "https://letterboxd.com/film/hands-of-stone/",
+        "title": "Hands of Stone",
+        "poster": "/film/hands-of-stone/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/3/3/4/2/5/133425-hands-of-stone-0-70-0-105-crop.jpg?v=ab80cf380a",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2006 biography <b><i>Hands of Stone: The Life and Legend of Roberto Duran </i></b> by Christian Giudice.</p>"
+    },
+    {
+        "id": "208823",
+        "link": "https://letterboxd.com/film/the-light-between-oceans/",
+        "title": "The Light Between Oceans",
+        "poster": "/film/the-light-between-oceans/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/0/8/8/2/3/208823-the-light-between-oceans-0-70-0-105-crop.jpg?v=cebb204011",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novel of the same name by M.L. Stedman.</p>"
+    },
+    {
+        "id": "301040",
+        "link": "https://letterboxd.com/film/sully/",
+        "title": "Sully",
+        "poster": "/film/sully/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/0/1/0/4/0/301040-sully-0-70-0-105-crop.jpg?v=d60925feaa",
+        "year": "2016",
+        "rating": "8",
+        "desc": "<p>This is based on the 2009 autobiography <b><i>Highest Duty: My Search for What Really Matters</i></b> by Chesley Sullenberger and Jeffrey Zaslow.</p>"
+    },
+    {
+        "id": "304810",
+        "link": "https://letterboxd.com/film/robinson-crusoe-2016/",
+        "title": "Robinson Crusoe",
+        "poster": "/film/robinson-crusoe-2016/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/0/4/8/1/0/304810-robinson-crusoe-0-70-0-105-crop.jpg?v=af32d1beaf",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 1719 novel <b><i>Robinson Crusoe</i></b> by Daniel Defoe.</p>"
+    },
+    {
+        "id": "229467",
+        "link": "https://letterboxd.com/film/snowden/",
+        "title": "Snowden",
+        "poster": "/film/snowden/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/4m/zj/e1/ro/mWOotrG1MMKP9iCy2uPepbu27jk-0-70-0-105-crop.jpg?v=7f26b8a014",
+        "year": "2016",
+        "rating": "6",
+        "desc": "<p>This is based on the 2014 non-fiction book <b><i>The Snowden Files: The Inside Story of the World's Most Wanted Man</i></b> by Luke Harding and the 2015 novel <b><i>Time of the Octopus</i></b> by Anatoly Kucherena.</p>"
+    },
+    {
+        "id": "208664",
+        "link": "https://letterboxd.com/film/miss-peregrines-home-for-peculiar-children/",
+        "title": "Miss Peregrine’s Home for Peculiar Children",
+        "poster": "/film/miss-peregrines-home-for-peculiar-children/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/0/8/6/6/4/208664-miss-peregrine-s-home-for-peculiar-children-0-70-0-105-crop.jpg?v=d0835b2f50",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 novel of the same name by Ransom Riggs.</p>"
+    },
+    {
+        "id": "244838",
+        "link": "https://letterboxd.com/film/queen-of-katwe/",
+        "title": "Queen of Katwe",
+        "poster": "/film/queen-of-katwe/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/4/4/8/3/8/244838-queen-of-katwe-0-70-0-105-crop.jpg?v=bf9407acf1",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 non-fiction book <b><i>The Queen of Katwe: A Story of Life, Chess, and One Extraordinary Girl's Dream of Becoming a Grandmaster </i></b> by Tim Crothers.</p>"
+    },
+    {
+        "id": "305622",
+        "link": "https://letterboxd.com/film/middle-school-the-worst-years-of-my-life/",
+        "title": "Middle School: The Worst Years of My Life",
+        "poster": "/film/middle-school-the-worst-years-of-my-life/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 novel of the same name by James Patterson and Chris Tebbetts.</p>"
+    },
+    {
+        "id": "273922",
+        "link": "https://letterboxd.com/film/jack-reacher-never-go-back/",
+        "title": "Jack Reacher: Never Go Back",
+        "poster": "/film/jack-reacher-never-go-back/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2016",
+        "rating": "6",
+        "desc": "<p>This is based on the 2013 novel <b><i>Never Go Back</i></b> by Lee Child.</p>"
+    },
+    {
+        "id": "220664",
+        "link": "https://letterboxd.com/film/billy-lynns-long-halftime-walk/",
+        "title": "Billy Lynn’s Long Halftime Walk",
+        "poster": "/film/billy-lynns-long-halftime-walk/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 novel of the same name by Ben Fountain.</p>"
+    },
+    {
+        "id": "182910",
+        "link": "https://letterboxd.com/film/fantastic-beasts-and-where-to-find-them/",
+        "title": "Fantastic Beasts and Where to Find Them",
+        "poster": "/film/fantastic-beasts-and-where-to-find-them/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2016",
+        "rating": "8",
+        "desc": "<p>This is inspired by the 2001 guide book of the same name by J.K. Rowling.</p>"
+    },
+    {
+        "id": "315157",
+        "link": "https://letterboxd.com/film/the-bounce-back/",
+        "title": "The Bounce Back",
+        "poster": "/film/the-bounce-back/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2008 self-help book <b><i>The Bounce Back Book: How to Thrive in the Face of Adversity, Setbacks, and Losses</i></b> by Karen Salmansohn.</p>"
+    },
+    {
+        "id": "270106",
+        "link": "https://letterboxd.com/film/nocturnal-animals/",
+        "title": "Nocturnal Animals",
+        "poster": "/film/nocturnal-animals/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2016",
+        "rating": "8",
+        "desc": "<p>This is based on the 1993 novel <b><i>Tony and Susan</i></b> by Austin Wright.</p>"
+    },
+    {
+        "id": "137476",
+        "link": "https://letterboxd.com/film/american-sniper/",
+        "title": "American Sniper",
+        "poster": "/film/american-sniper/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2014",
+        "rating": "8",
+        "desc": "<p>This is loosely based on the 2012 memoir <b><i>American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History</i></b> by Chris Kyle.</p>"
+    },
+    {
+        "id": "150066",
+        "link": "https://letterboxd.com/film/mortdecai/",
+        "title": "Mortdecai",
+        "poster": "/film/mortdecai/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2015",
+        "rating": "5",
+        "desc": "<p>This is based on the 1972 novel <b><i>Don't Point that Thing at Me</i></b> by Kyril Bonfiglioli.</p>"
+    },
+    {
+        "id": "52498",
+        "link": "https://letterboxd.com/film/seventh-son/",
+        "title": "Seventh Son",
+        "poster": "/film/seventh-son/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 2004 novel <b><i>The Spook's Apprentice</i></b> (retitled <b><i>The Last Apprentice: Revenge of the Witch</i></b> in the US) by Joseph Delaney.</p>"
+    },
+    {
+        "id": "196361",
+        "link": "https://letterboxd.com/film/the-duff/",
+        "title": "The DUFF",
+        "poster": "/film/the-duff/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 novel of the same name by Kody Keplinger.</p>"
+    },
+    {
+        "id": "209606",
+        "link": "https://letterboxd.com/film/still-alice/",
+        "title": "Still Alice",
+        "poster": "/film/still-alice/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is based on the 2007 novel of the same name by Lisa Genova.</p>"
+    },
+    {
+        "id": "189658",
+        "link": "https://letterboxd.com/film/the-gunman-2015/",
+        "title": "The Gunman",
+        "poster": "/film/the-gunman-2015/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 1981 novel <b><i>The Prone Gunman</i></b> (original French title: <b><i>La position du tireur couché</i></b>) by Jean-Patrick Manchette.</p>"
+    },
+    {
+        "id": "160534",
+        "link": "https://letterboxd.com/film/the-longest-ride/",
+        "title": "The Longest Ride",
+        "poster": "/film/the-longest-ride/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2013 novel of the same name by Nicholas Sparks.</p>"
+    },
+    {
+        "id": "171967",
+        "link": "https://letterboxd.com/film/true-story/",
+        "title": "True Story",
+        "poster": "/film/true-story/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/7/1/9/6/7/171967-true-story-0-70-0-105-crop.jpg?v=41375a1f4c",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2005 memoir <b><i>True Story: Murder, Memoir, Mea Culpa</i></b> by Michael Finkel.</p>"
+    },
+    {
+        "id": "175058",
+        "link": "https://letterboxd.com/film/far-from-the-madding-crowd-2015/",
+        "title": "Far from the Madding Crowd",
+        "poster": "/film/far-from-the-madding-crowd-2015/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/7/5/0/5/8/175058-far-from-the-madding-crowd-0-70-0-105-crop.jpg?v=7a69cf0661",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 1874 novel of the same name by Thomas Hardy.</p>"
+    },
+    {
+        "id": "163061",
+        "link": "https://letterboxd.com/film/a-walk-in-the-woods/",
+        "title": "A Walk in the Woods",
+        "poster": "/film/a-walk-in-the-woods/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/di/3t/02/40/pGrsFEL5RJaKLH649Y5lLdBhu9I-0-70-0-105-crop.jpg?v=e0e5f80d01",
+        "year": "2015",
+        "rating": "7",
+        "desc": "<p>This is based on the 1998 memoir <b><i>A Walk in the Woods: Rediscovering America on the Appalachian Trail</i></b> by Bill Bryson.</p>"
+    },
+    {
+        "id": "274085",
+        "link": "https://letterboxd.com/film/90-minutes-in-heaven/",
+        "title": "90 Minutes in Heaven",
+        "poster": "/film/90-minutes-in-heaven/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/7/4/0/8/5/274085-90-minutes-in-heaven-0-70-0-105-crop.jpg?v=04bbcd9e05",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is on the 2004 nonfiction book of the same name by Don Piper and Cecil Murphey.</p>"
+    },
+    {
+        "id": "184526",
+        "link": "https://letterboxd.com/film/black-mass-2015/",
+        "title": "Black Mass",
+        "poster": "/film/black-mass-2015/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/8/4/5/2/6/184526-black-mass-0-70-0-105-crop.jpg?v=23a1f6cd61",
+        "year": "2015",
+        "rating": "7",
+        "desc": "<p>This is based on the 2001 nonfiction book <b><i>Black Mass: The True Story of an Unholy Alliance Between the FBI and the Irish Mob</i></b> by Dick Lehr and Gerard O'Neill.</p>"
+    },
+    {
+        "id": "258995",
+        "link": "https://letterboxd.com/film/captive-2015/",
+        "title": "Captive",
+        "poster": "/film/captive-2015/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/5/8/9/9/5/258995-captive-2015-0-70-0-105-crop.jpg?v=8475d5ae11",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2005 non-fiction book <b><i>Unlikely Angel: The Untold Story of the Atlanta Hostage Hero</i></b> by Ashley Smith.</p>"
+    },
+    {
+        "id": "211100",
+        "link": "https://letterboxd.com/film/the-walk-2015/",
+        "title": "The Walk",
+        "poster": "/film/the-walk-2015/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/1/1/1/0/0/211100-the-walk-0-70-0-105-crop.jpg?v=a79d0073af",
+        "year": "2015",
+        "rating": "8",
+        "desc": "<p>This is based on the 2002 memoir <b><i>To Reach the Clouds: My High Wire Walk Between the Twin Towers</i></b> by Philippe Petit.</p>"
+    },
+    {
+        "id": "248773",
+        "link": "https://letterboxd.com/film/steve-jobs/",
+        "title": "Steve Jobs",
+        "poster": "/film/steve-jobs/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/ql/1g/sz/63/7SUaf2UgoY0ZRGbQtRlfDkLDBCb-0-70-0-105-crop.jpg?v=867f24dae3",
+        "year": "2015",
+        "rating": "8",
+        "desc": "<p>This is based on the 2011 book of the same name by Walter Isaacson.</p>"
+    },
+    {
+        "id": "220545",
+        "link": "https://letterboxd.com/film/the-33/",
+        "title": "The 33",
+        "poster": "/film/the-33/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/2/0/5/4/5/220545-the-33-0-70-0-105-crop.jpg?v=3c04facf60",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2014 non-fiction book <b><i>Deep Down Dark: The Untold Stories of 33 Men Buried in a Chilean Mine, and the Miracle That Set Them Free</i></b> by Héctor Tobar.</p>"
+    },
+    {
+        "id": "263213",
+        "link": "https://letterboxd.com/film/my-all-american/",
+        "title": "My All American",
+        "poster": "/film/my-all-american/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/6/3/2/1/3/263213-my-all-american-0-70-0-105-crop.jpg?v=aef809373c",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2011 nonfiction book <b><i>Courage Beyond the Game: The Freddie Steinmark Story</i></b> by Jim Dent.</p>"
+    },
+    {
+        "id": "217021",
+        "link": "https://letterboxd.com/film/secret-in-their-eyes/",
+        "title": "Secret in Their Eyes",
+        "poster": "/film/secret-in-their-eyes/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/2/1/7/0/2/1/217021-secret-in-their-eyes-0-70-0-105-crop.jpg?v=831c37ed29",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2005 novel <b><i>La pregunta de sus ojos</i></b> by Eduardo Sacheri.</p>"
+    },
+    {
+        "id": "160462",
+        "link": "https://letterboxd.com/film/victor-frankenstein/",
+        "title": "Victor Frankenstein",
+        "poster": "/film/victor-frankenstein/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/lz/yf/ff/t5/FDcYYHd6IlKj2ZitO9ASE4GlKa-0-70-0-105-crop.jpg?v=16c23f115e",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 1818 novel <b><i>Frankenstein; or, The Modern Prometheus</i></b> by Mary Shelley.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/frankenstein-retold/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "147039",
+        "link": "https://letterboxd.com/film/in-the-heart-of-the-sea/",
+        "title": "In the Heart of the Sea",
+        "poster": "/film/in-the-heart-of-the-sea/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/4/7/0/3/9/147039-in-the-heart-of-the-sea-0-70-0-105-crop.jpg?v=e51900a589",
+        "year": "2015",
+        "rating": null,
+        "desc": "<p>This is based on the 2000 non-fiction book <b><i>In the Heart of the Sea: The Tragedy of the Whaleship Essex</i></b> by Nathaniel Philbrick.</p>"
+    },
+    {
+        "id": "6587",
+        "link": "https://letterboxd.com/film/legends-of-oz-dorothys-return/",
+        "title": "Legends of Oz: Dorothy’s Return",
+        "poster": "/film/legends-of-oz-dorothys-return/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/6/5/8/7/6587-legends-of-oz-dorothy-s-return-0-70-0-105-crop.jpg?v=4e9c05a772",
+        "year": "2013",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 1989 children's novel <b><i>Dorothy of Oz</i></b> by Roger Stanton Baum.</p>"
+    },
+    {
+        "id": "99527",
+        "link": "https://letterboxd.com/film/the-railway-man/",
+        "title": "The Railway Man",
+        "poster": "/film/the-railway-man/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/9/9/5/2/7/99527-the-railway-man-0-70-0-105-crop.jpg?v=e338bf14f9",
+        "year": "2013",
+        "rating": null,
+        "desc": "<p>This is based on the 1995 autobiography of the same name by Eric Lomax.</p>"
+    },
+    {
+        "id": "115873",
+        "link": "https://letterboxd.com/film/the-drop-2014/",
+        "title": "The Drop",
+        "poster": "/film/the-drop-2014/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/ml/6b/av/2c/lj8AMCjWx0jU93XajzUEOUUNKZF-0-70-0-105-crop.jpg?v=6f7aa14794",
+        "year": "2014",
+        "rating": "7",
+        "desc": "<p>This is based on the 2009 short story \"Animal Rescue\" by Dennis Lehane.</p>"
+    },
+    {
+        "id": "16557",
+        "link": "https://letterboxd.com/film/dracula-untold/",
+        "title": "Dracula Untold",
+        "poster": "/film/dracula-untold/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/6/5/5/7/16557-dracula-untold-0-70-0-105-crop.jpg?v=63340bed9c",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is loosely based on the 1897 novel <b><i>Dracula</i></b> by Bram Stoker.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/dracula-retold/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "190077",
+        "link": "https://letterboxd.com/film/the-theory-of-everything-2014/",
+        "title": "The Theory of Everything",
+        "poster": "/film/the-theory-of-everything-2014/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/9/0/0/7/7/190077-the-theory-of-everything-0-70-0-105-crop.jpg?v=d1c034cf99",
+        "year": "2014",
+        "rating": "9",
+        "desc": "<p>This is based on the 1999 memoir <b><i>Travelling to Infinity: My Life with Stephen</i></b> by Jane Hawking,</p>"
+    },
+    {
+        "id": "161004",
+        "link": "https://letterboxd.com/film/wild/",
+        "title": "Wild",
+        "poster": "/film/wild/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/6/1/0/0/4/161004-wild-0-70-0-105-crop.jpg?v=68e4a60ab5",
+        "year": "2014",
+        "rating": null,
+        "desc": "<p>This is based on the 2012 memoir <b><i>Wild: From Lost to Found on the Pacific Crest Trail</i></b> by Cheryl Strayed.</p>"
+    },
+    {
+        "id": "146954",
+        "link": "https://letterboxd.com/film/the-imitation-game/",
+        "title": "The Imitation Game",
+        "poster": "/film/the-imitation-game/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/1/4/6/9/5/4/146954-the-imitation-game-0-70-0-105-crop.jpg?v=818ff18071",
+        "year": "2014",
+        "rating": "8",
+        "desc": "<p>This is based on the 1983 biography <b><i>Alan Turing: The Enigma</i></b> by Andrew Hodges.</p>"
+    },
+    {
+        "id": "131425",
+        "link": "https://letterboxd.com/film/t2-trainspotting/",
+        "title": "T2 Trainspotting",
+        "poster": "/film/t2-trainspotting/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "2017",
+        "rating": "7",
+        "desc": "<p>This is based on the novels <b><i>Trainspotting</i></b> (1993) and <b><i>Porno</i></b> (2002) by Irvine Welsh.</p>"
+    },
+    {
+        "id": "51431",
+        "link": "https://letterboxd.com/film/short-cuts/",
+        "title": "Short Cuts",
+        "poster": "/film/short-cuts/image-150/",
+        "poster2": "https://s.ltrbxd.com/static/img/empty-poster-70-BSf-Pjrh.png",
+        "year": "1993",
+        "rating": null,
+        "desc": "<p>This is based on nine short stories and a poem by Raymond Carver.</p>"
+    },
+    {
+        "id": "49476",
+        "link": "https://letterboxd.com/film/death-on-the-nile/",
+        "title": "Death on the Nile",
+        "poster": "/film/death-on-the-nile/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/9/4/7/6/49476-death-on-the-nile-0-70-0-105-crop.jpg?v=502dc88066",
+        "year": "1978",
+        "rating": "7",
+        "desc": "<p>This is based on the 1937 novel of the same name by Agatha Christie.</p>"
+    },
+    {
+        "id": "307298",
+        "link": "https://letterboxd.com/film/the-disaster-artist/",
+        "title": "The Disaster Artist",
+        "poster": "/film/the-disaster-artist/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/0/7/2/9/8/307298-the-disaster-artist-0-70-0-105-crop.jpg?v=fdf94cff54",
+        "year": "2017",
+        "rating": "8",
+        "desc": "<p>This is based on the 2013 non-fiction book <b><i>The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made</i></b> by Greg Sestero and Tom Bissell.</p>"
+    },
+    {
+        "id": "46466",
+        "link": "https://letterboxd.com/film/the-midnight-meat-train/",
+        "title": "The Midnight Meat Train",
+        "poster": "/film/the-midnight-meat-train/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/6/4/6/6/46466-the-midnight-meat-train-0-70-0-105-crop.jpg?v=67813f9448",
+        "year": "2008",
+        "rating": "6",
+        "desc": "<p>This is based on the 1984 short story of the same name by Clive Barker.</p>"
+    },
+    {
+        "id": "38435",
+        "link": "https://letterboxd.com/film/mickey-donald-goofy-the-three-musketeers/",
+        "title": "Mickey, Donald, Goofy: The Three Musketeers",
+        "poster": "/film/mickey-donald-goofy-the-three-musketeers/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/3/8/4/3/5/38435-mickey-donald-goofy-the-three-musketeers-0-70-0-105-crop.jpg?v=9406b86a6e",
+        "year": "2004",
+        "rating": null,
+        "desc": "<p>This is based on the 1844 novel <b><i>The Three Musketeers</i></b> by Alexandre Dumas père.</p><p>A list of adaptations can be found <a href=\"https://letterboxd.com/shawn_stubbs/list/multiple-musketeers/\" rel=\"nofollow\">here</a>.</p>"
+    },
+    {
+        "id": "438555",
+        "link": "https://letterboxd.com/film/the-sun-is-also-a-star/",
+        "title": "The Sun Is Also a Star",
+        "poster": "/film/the-sun-is-also-a-star/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/4/3/8/5/5/5/438555-the-sun-is-also-a-star-0-70-0-105-crop.jpg?v=1760df89e0",
+        "year": "2019",
+        "rating": null,
+        "desc": "<p>This is based on the 2016 young adult novel of the same name by Nicola Yoon.</p>"
+    },
+    {
+        "id": "50192",
+        "link": "https://letterboxd.com/film/shopgirl/",
+        "title": "Shopgirl",
+        "poster": "/film/shopgirl/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/0/1/9/2/50192-shopgirl-0-70-0-105-crop.jpg?v=55596884ea",
+        "year": "2005",
+        "rating": null,
+        "desc": "<p>This is based on his 2000 novella of the same name by Steve Martin.</p>"
+    },
+    {
+        "id": "51122",
+        "link": "https://letterboxd.com/film/notes-on-a-scandal/",
+        "title": "Notes on a Scandal",
+        "poster": "/film/notes-on-a-scandal/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/8z/u5/0b/by/lXZa1mHZ8eD0VOpNaLfvM9tSpAj-0-70-0-105-crop.jpg?v=3adb4b1b3d",
+        "year": "2006",
+        "rating": null,
+        "desc": "<p>This is based on the 2003 novel of the same name by Zoë Heller.</p>"
+    },
+    {
+        "id": "51024",
+        "link": "https://letterboxd.com/film/the-virgin-suicides/",
+        "title": "The Virgin Suicides",
+        "poster": "/film/the-virgin-suicides/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/0/2/4/51024-the-virgin-suicides-0-70-0-105-crop.jpg?v=b869f3409a",
+        "year": "1999",
+        "rating": null,
+        "desc": "<p>This is based on the 1993 novel of the same name by Jeffrey Eugenides.</p>"
+    },
+    {
+        "id": "50725",
+        "link": "https://letterboxd.com/film/fear-and-loathing-in-las-vegas/",
+        "title": "Fear and Loathing in Las Vegas",
+        "poster": "/film/fear-and-loathing-in-las-vegas/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/0/7/2/5/50725-fear-and-loathing-in-las-vegas-0-70-0-105-crop.jpg?v=ff824b403c",
+        "year": "1998",
+        "rating": null,
+        "desc": "<p>This is based on the 1971 novel <b><i>Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American</i></b> by Hunter S. Thompson.</p>"
+    },
+    {
+        "id": "51350",
+        "link": "https://letterboxd.com/film/lolita/",
+        "title": "Lolita",
+        "poster": "/film/lolita/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/0/51350-lolita-0-70-0-105-crop.jpg?v=674373a926",
+        "year": "1962",
+        "rating": null,
+        "desc": "<p>This is based on a 1955 novel of the same name by Vladimir Nabokov.</p>"
+    },
+    {
+        "id": "310727",
+        "link": "https://letterboxd.com/film/the-girl-with-all-the-gifts/",
+        "title": "The Girl with All the Gifts",
+        "poster": "/film/the-girl-with-all-the-gifts/image-150/",
+        "poster2": "https://a.ltrbxd.com/resized/sm/upload/xx/la/mi/sx/eE9nsXVqBxnbbiouCTaAvoEnwts-0-70-0-105-crop.jpg?v=bfe774990c",
+        "year": "2016",
+        "rating": null,
+        "desc": "<p>This is based on the 2014 novel of the same name by M.R. Carey, which was itself based on 2013 short story <b><i>Iphigenia In Aulis</i></b>, also by M.R. Carey.</p>"
+    }
+]
