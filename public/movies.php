@@ -13,7 +13,7 @@ $decades = array_filter($decades, function($decade) use ($validDecades) {
     return in_array($decade, $validDecades);
 });
 
-$decade = empty($decade) ? $validDecades[array_rand($validDecades)] : $decades[array_rand($decades)];
+$decade = empty($decades) ? $validDecades[array_rand($validDecades)] : $decades[array_rand($decades)];
 
 $movies = $grouped['movies'][$decade] ?? [];
 
