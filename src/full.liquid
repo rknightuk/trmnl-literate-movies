@@ -1,0 +1,15 @@
+<div class="layout">
+  <div class="columns">
+    <div class="column">
+     {% render 'poster', decade: decade, movie: movie %}
+    </div>
+    <div class="column">
+     {% render 'main_info', decade: decade, movie: movie %}
+    </div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <img class="image" src="https://cdn.rknight.me/trmnl/literate-movies.svg">
+  <span class="title">{{ trmnl.plugin_settings.instance_name }}</span>
+</div>

@@ -1,0 +1,48 @@
+<style>
+  .poster-wrapper {
+    max-height: 100%;
+    text-align: center;
+  }
+
+  .poster-wrapper img {
+    max-height: 100%;
+  }
+
+  .poster-wrapper.small {
+    height: calc(50vh);
+    padding: 0 0 30px 0;
+  }
+
+  .trmnl .columns,
+  .trmnl .layout {
+    align-items: initial;
+  }
+</style>
+
+{% template poster %}
+<div class="poster-wrapper {% if small %}small{% endif %}">
+  <img src="{% unless movie.poster contains 'https' %}https://a.ltrbxd.com/resized/film-poster/{% endunless %}{{ movie.poster }}" class="image-dither" style="margin-bottom: 5px">
+  <div class="richtext richtext--center gap--large">
+    <div class="content content--center gap text--center">
+      <p>🍿 {{ movie.title }} ({{ movie.year }})</p>
+    </div>
+  </div>
+</div>
+{% endtemplate %}
+
+{% template main_info %}
+<div>
+  <div class="richtext richtext--left gap--large">
+    <div class="content content--left gap text--left">
+      <p>🎥 Directed by {{ movie.director }}</p>
+      <p>🌐 /{{ movie.link }}</p>
+
+      <p>✨ Starring {{ movie.actors }}</p>
+
+      <p></p>
+      
+      {{ movie.desc }}
+    </div>
+  </div>
+</div>
+{% endtemplate %}

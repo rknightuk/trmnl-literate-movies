@@ -1,0 +1,23 @@
+<style>
+  .trmnl .layout {
+    align-items: center;
+  }
+</style>
+
+<div class="layout">
+  <div class="richtext richtext--left gap--large">
+    <div class="content content--left gap text--left">
+      <p>🍿 {{ movie.title }} ({{ movie.year }})</p>
+      <p>🎥 Directed by {{ movie.director }}</p>
+
+      <p></p>
+
+      {{ movie.desc }}
+    </div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <img class="image" src="https://cdn.rknight.me/trmnl/literate-movies.svg">
+  <span class="title">{{ trmnl.plugin_settings.instance_name }}</span>
+</div>
